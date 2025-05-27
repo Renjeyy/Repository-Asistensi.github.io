@@ -75,118 +75,98 @@ Furthermore, I have served as a teaching assistant for several courses, includin
 <!-- Teaching Section -->
 <div id="teaching" class="section">
   <h2>Pengalaman Asisten Dosen <em>/ Lecturer Assistant Experiences</em></h2>
-  <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
-    <thead>
-      <tr style="background-color: #f2f2f2;">
-        <th style="border: 2px solid #000; padding: 10px;">Semester</th>
-        <th style="border: 2px solid #000; padding: 10px; text-align: center;">Mata Kuliah</th>
-        <th style="border: 2px solid #000; padding: 10px;">Dosen</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px;" rowspan="1">Semester Reguler PTA 2023/24</td>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data Matematika (C)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Dr. Dra. Yekti Widyarningsih, M.Si.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px;" rowspan="3">Semester Reguler ATA 2023/24</td>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data Biologi (B)</td>
-        <td style="border: 2px solid #000; padding: 10px;">
-          <ul style="margin: 0; padding-left: 20px;">
-            <li>Dr. Dra. Yekti Widyarningsih, M.Si.</li>
-            <li>Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data Biologi (C)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Statistika Matematika 1 (B)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Dr. Ida Fithriani, M.Si.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px;" rowspan="7">Semester Pendek PTA 2023/24</td>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data MIPA (A)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data MIPA (B)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Dr. Dra. Yekti Widyarningsih, M.Si.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data MIPA (C)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Gianinna Ardaneswari, S.Si., M.Si.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data MIPA (D)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Devvi Sarwinda, M.Kom.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data MIPA (E)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Sarini Abdullah, S.Si., M.Stats., Ph.D.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Persamaan Diferensial Biasa</td>
-        <td style="border: 2px solid #000; padding: 10px;">
-          <ul style="margin: 0; padding-left: 20px;">
-            <li>Dr. Dipo Aldila, S.Si., M.Si.</li>
-            <li>Maulana Malik, S.Si., M.Si.</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-  <td style="border: 2px solid #000; padding: 10px;" rowspan="5">Semester Reguler PTA 2024/25</td>
-  <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data Matematika (A)</td>
-  <td style="border: 2px solid #000; padding: 10px;">Gianinna Ardaneswari, S.Si., M.Si.</td>
-</tr>
-<tr>
-  <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data Matematika (D)</td>
-  <td style="border: 2px solid #000; padding: 10px;">
-    <ul style="margin: 0; padding-left: 20px;">
-      <li>Sarini Abdullah, S.Si., M.Stats., Ph.D.</li>
-      <li>Fida Fathiyah Addini, M.Si.</li>
-    </ul>
-  </td>
-</tr>
-<tr>
-  <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data MIPA (B)</td>
-  <td style="border: 2px solid #000; padding: 10px;">Devvi Sarwinda, M.Kom.</td>
-</tr>
-<tr>
-  <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data MIPA (D)</td>
-  <td style="border: 2px solid #000; padding: 10px;">Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
-</tr>
-<tr>
-  <td style="border: 2px solid #000; padding: 10px; text-align: center;">Persamaan Diferensial Biasa</td>
-  <td style="border: 2px solid #000; padding: 10px;">Dr. Dipo Aldila, S.Si., M.Si.</td>
-</tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px;" rowspan="4">Semester Reguler ATA 2025/26</td>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Sains Data (A)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Dra. Bevina Desjiwiandra Handari, M.Si., Ph.D.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Sains Data (B)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Devvi Sarwinda, M.Kom.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Geometri Analitik (A)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Peter John, M.Si.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Geometri Analitik (B)</td>
-        <td style="border: 2px solid #000; padding: 10px;">
-          <ul style="margin: 0; padding-left: 20px;">
-            <li>Herolistra Baskoroputro, Ph.D.</li>
-            <li>Muhammad Imran, S.Si., M.Sc.</li>
-          </ul>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <table><thead>
+  <tr>
+    <th colspan="3">Pengalaman Asisten Dosen</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Jenis Semester</td>
+    <td>Mata Kuliah</td>
+    <td>Dosen Pengampu</td>
+  </tr>
+  <tr>
+    <td>Reguler PTA 2023/24</td>
+    <td>Pengantar Sains Data (C)</td>
+    <td>Dr. Dra Yekti Widyaningsih, M.Si.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Reguler ATA 2023/24</td>
+    <td>Pengantar Sains Data (B)<br>Departemen Biologi</td>
+    <td>- Dr. Dra Yekti Widyaningsih, M.Si.<br>- Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
+  </tr>
+  <tr>
+    <td>Pengantar Sains Data (C)<br>Departemen Biologi</td>
+    <td>Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
+  </tr>
+  <tr>
+    <td>Statistika Matematika 1 (B)</td>
+    <td>Dra. Ida Fithriani, M.Si.</td>
+  </tr>
+  <tr>
+    <td rowspan="6">Pendek PTA 2023/24</td>
+    <td>Pengantar Sains Data FMIPA (A)</td>
+    <td>Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
+  </tr>
+  <tr>
+    <td>Pengantar Sains Data FMIPA (B)</td>
+    <td>Dr. Dra Yekti Widyaningsih, M.Si.</td>
+  </tr>
+  <tr>
+    <td>Pengantar Sains Data FMIPA (C)</td>
+    <td>Gianinna Ardaneswari, S.Si., M.Si.</td>
+  </tr>
+  <tr>
+    <td>Pengantar Sains Data FMIPA (D)</td>
+    <td>Devvi Sarwinda, M.Kom.</td>
+  </tr>
+  <tr>
+    <td>Pengantar Sains Data FMIPA (E)</td>
+    <td>Sarini Abdullah, S.Si., M.Stats., Ph.D.</td>
+  </tr>
+  <tr>
+    <td>Persamaan Diferensial Biasa</td>
+    <td>- Dr. Dipo Aldila, S.Si., M.Si.<br>- Maulana Malik, S.Si., M.Si., Ph.D.</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Reguler PTA 2024/25</td>
+    <td>Pengantar Sains Data Matematika (A)</td>
+    <td>Gianinna Ardaneswari, S.Si., M.Si.</td>
+  </tr>
+  <tr>
+    <td>Pengantar Sains Data Matematika (D)</td>
+    <td>- Sarini Abdullah, S.Si., M.Stats., Ph.D.<br>- Fida Fathiyah Addini, M.Si.</td>
+  </tr>
+  <tr>
+    <td>Pengantar Sains Data MIPA (B)</td>
+    <td>Devvi Sarwinda, M.Kom.</td>
+  </tr>
+  <tr>
+    <td>Pengantar Sains Data MIPA (D)</td>
+    <td>Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
+  </tr>
+  <tr>
+    <td>Persamaan Diferensial Biasa (A)</td>
+    <td>Dr. Dipo Aldila, S.Si., M.Si.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Reguler ATA 2025/26</td>
+    <td>Sains Data (A)</td>
+    <td>Dra. Bevina Desjwiandra Handari, M.Si., Ph.D.</td>
+  </tr>
+  <tr>
+    <td>Sains Data (B)</td>
+    <td>Devvi Sarwinda, M.Kom.</td>
+  </tr>
+  <tr>
+    <td>Geometri Analitik (A)</td>
+    <td>Peter John, M.Si.</td>
+  </tr>
+  <tr>
+    <td>Geometri Analitik (B)</td>
+    <td>- Herolistra Baskoroputro, Ph.D.<br>- Muhammad Imran, S.Si., M.Sc.</td>
+  </tr>
+</tbody></table>
 </div>
 
 <!-- Project Section -->
