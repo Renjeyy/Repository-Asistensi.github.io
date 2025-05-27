@@ -57,8 +57,8 @@ Furthermore, I have served as a teaching assistant for several courses, includin
 
   <h3>Pengantar Sains Data</h3>
   <ul>
-    <li><a href="https://drive.google.com/drive/folders/1giMPFUEda0Jk2TsuH6g28LBRD8EJWXE-?usp=drive_link">Semester Reguler PTA 2023/24 (Dept Math)</a></li>
-    <li><a href="https://drive.google.com/drive/folders/1X1_dLkiHFinsTVUsxdhuk8awcaaY0X-b?usp=drive_link">Semester Reguler ATA 2023/24 (Dept Bio)</a></li>
+    <li><a href="https://drive.google.com/drive/folders/13odOWAsMnDVLOL3XU6xD7itkZgR-M3Wy?usp=drive_link">Semester Reguler PTA 2023/24 (Dept Math)</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1p-MPrF2blbNgPMM54yzbnUs0o86llMaA?usp=drive_link">Semester Reguler ATA 2023/24 (Dept Bio)</a></li>
     <li><a href="https://drive.google.com/drive/folders/1Q6spz7MC0t2-ZC3cxL8_c630EYq0koKj?usp=drive_link">Semester Pendek PTA 2023/24 (Fakultas MIPA)</a></li>
     <li><a href="https://drive.google.com/drive/folders/1h9oBbN4FFGhRFUuFIuf_e_M7GNaBBuH5?usp=drive_link">Semester Reguler PTA 2024/25 (Dept Math Kelas A)</a></li>
     <li><a href="https://drive.google.com/drive/folders/157hsgHd1Nrds4yEBnkceWyGigolc9Yjh?usp=drive_link">Semester Reguler PTA 2024/25 (Dept Math Kelas D)</a></li>
@@ -66,10 +66,25 @@ Furthermore, I have served as a teaching assistant for several courses, includin
     <li><a href="https://drive.google.com/drive/folders/1tPVKmshtq7UoZZ3ItoMfKKua5XaL06xm?usp=drive_link">Semester Reguler PTA 2024/25 (Fakultas MIPA Kelas D)</a></li>
   </ul>
 
+  <h3>Statistika Matematika 1</h3>
+  <ul>
+    <li><a href="https://drive.google.com/drive/folders/1w0mLmRCjPp465-g15PlG9cpcPf6WIrdg?usp=drive_link">Semester Reguler ATA 2023/24</a></li>
+  </ul>
+  
   <h3>Persamaan Diferensial Biasa</h3>
   <ul>
-    <li><a href="#">Soal 1</a></li>
-    <li><a href="#">Soal 2</a></li>
+    <li>Semester Reguler PTA 2024/25</li>
+    <ul>
+        <li><a href="https://drive.google.com/drive/folders/1gNHHzcsr4BCcOaMwxVfEG4E2hrLeFieX?usp=drive_link">Kontrak Responsi</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1dfr0CIuhKH_0ekl5S09VtNuV16sdEHbB?usp=drive_link">Pendahuluan</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1U-HahPv1lVrBm4x7sHk3V6CrtwxFrjkY?usp=drive_link">Masalah Nilai Awal & Bidang Fase</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1musWOnhZgtGhaEbHQ1SQItKz6J6BNCK_?usp=drive_link">MKTT</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1yLeVvesjMof59OwxwCTTqp8QHOPRxSyt?usp=drive_link">MVP</a></li>
+        <li><a href="https://drive.google.com/drive/folders/11OtvOKdhwF_fEX6MvPpCFZf1v6-_uW_F?usp=drive_link">Deret</a></li>
+      <li><a href="https://drive.google.com/drive/folders/189zqO3Lw4fdp3yOX8klB4vZ_gJh35CBB?usp=drive_link">Laplace</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1Dg73BkBHH08OCjC_aRyPQmqwQMqi7h3P?usp=drive_link">Sistem PDB</a></li>
+      <li><a href="https://drive.google.com/drive/folders/172fVBuUodEpALVt6EAYi7D9tAotjPO-C?usp=drive_link">Pendahuluan Sistem Dinamik</a></li>
+    </ul>
   </ul>
 
   <h3>Sains Data</h3>
