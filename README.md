@@ -28,8 +28,7 @@ metaheuristic method
 - Links :
 
 ## Publications
-### Aditya, R., Hutapea, D. N., Sitindaon, F. A., & Rusin, R. (2025). Predator-Prey Model Incorporating Self Limiting and Holling Type II and Its
-Application Industrial Factory Games
+### Aditya, R., Hutapea, D. N., Sitindaon, F. A., & Rusin, R. (2025). Predator-Prey Model Incorporating Self Limiting and Holling Type II and Its Application Industrial Factory Games
 - Description : Ongoing
 - Links :
 
