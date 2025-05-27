@@ -393,7 +393,7 @@ theory.</li>
             <tr>
                 <td>5</td>
                 <td>2206826046</td>
-                <td>Matthew Abigail Pasariou</td>
+                <td>Matthew Abigail Pasaribu</td>
                 <td>2022</td>
                 <td>Matematika</td>
                 <td>94</td>
