@@ -1,8 +1,3 @@
----
-layout: default
-title: Repository Responsi Renjeyy
----
-
 <nav>
   <ul>
     <li><a href="#cover">Cover</a></li>
@@ -12,7 +7,7 @@ title: Repository Responsi Renjeyy
 
 ## <a name="cover"></a>📌 Cover
 
-<img src="https://renjeyy.github.io/renjeyy-repository.github.io/assets/photo.jpg" alt="Foto Renjeyy" width="200" />
+<img src="https://renjeyy.github.io/renjeyy-repository.github.io/assets/Foto Renji.jpg" alt="Foto Renjeyy" width="200" />
 
 **Repository Responsi Renjeyy**  
 _Kumpulan Soal Responsi yang Pernah Diasdosin_
