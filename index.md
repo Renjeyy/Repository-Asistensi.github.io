@@ -68,7 +68,11 @@ Furthermore, I have served as a teaching assistant for several courses, includin
 
   <h3>Statistika Matematika 1</h3>
   <ul>
-    <li><a href="https://drive.google.com/drive/folders/1w0mLmRCjPp465-g15PlG9cpcPf6WIrdg?usp=drive_link">Semester Reguler ATA 2023/24</a></li>
+    <li>Semester Reguler ATA 2023/24</li>
+    <ul>
+        <li><a href="https://drive.google.com/drive/folders/1poO6B0jXxzDIP8cQmJrX1uY8RPmwNEVk?usp=drive_link">Paruh 1 (Pra UTS)</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1poWZyx6Namax3Dc1eBwfqs3PqaJf4NTi?usp=drive_link">Paruh 2 (Pasca UTS)</a></li>
+    </ul>
   </ul>
   
   <h3>Persamaan Diferensial Biasa</h3>
