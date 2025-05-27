@@ -55,15 +55,21 @@ Furthermore, I have served as a teaching assistant for several courses, includin
 <div id="soal" class="section">
   <h2>Soal Responsi</h2>
 
+  <h3>Pengantar Sains Data</h3>
+  <ul>
+    <li><a href="https://drive.google.com/drive/folders/1giMPFUEda0Jk2TsuH6g28LBRD8EJWXE-?usp=drive_link">Semester Reguler PTA 2023/24 (Dept Math)</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1X1_dLkiHFinsTVUsxdhuk8awcaaY0X-b?usp=drive_link">Semester Reguler ATA 2023/24 (Dept Bio)</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1Q6spz7MC0t2-ZC3cxL8_c630EYq0koKj?usp=drive_link">Semester Pendek PTA 2023/24 (Fakultas MIPA)</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1h9oBbN4FFGhRFUuFIuf_e_M7GNaBBuH5?usp=drive_link">Semester Reguler PTA 2024/25 (Dept Math Kelas A)</a></li>
+    <li><a href="https://drive.google.com/drive/folders/157hsgHd1Nrds4yEBnkceWyGigolc9Yjh?usp=drive_link">Semester Reguler PTA 2024/25 (Dept Math Kelas D)</a></li>
+    <li><a href="https://drive.google.com/drive/folders/17btDDdIrlcXny-B9As8VOADLcbWE4_iq?usp=drive_link">Semester Reguler PTA 2024/25 (Fakultas MIPA Kelas B)</a></li>
+    <li><a href="https://drive.google.com/drive/folders/1tPVKmshtq7UoZZ3ItoMfKKua5XaL06xm?usp=drive_link">Semester Reguler PTA 2024/25 (Fakultas MIPA Kelas D)</a></li>
+  </ul>
+
   <h3>Persamaan Diferensial Biasa</h3>
   <ul>
     <li><a href="#">Soal 1</a></li>
     <li><a href="#">Soal 2</a></li>
-  </ul>
-
-  <h3>Pengantar Data Science</h3>
-  <ul>
-    <li><a href="#">Soal 1</a></li>
   </ul>
 
   <h3>Sains Data</h3>
