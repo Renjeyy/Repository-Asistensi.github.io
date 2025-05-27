@@ -301,9 +301,11 @@ theory.</li>
 </div>
 
 <div id="nilai tugas" class="section">
-<h2>Nilai Tugas Mata Kuliah</h2>
+<h2>Semester Reguler ATA 2025/26</h2>
   <h3>Sains Data (A) : Kelas Bu Bevina</h3>
   <h3>Sains Data (B) : Kelas Bu Devvi</h3>
+
+<h2>Semester Reguler PTA 2025/26</h2>
 </div>
 
 <script>
