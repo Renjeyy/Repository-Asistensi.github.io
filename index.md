@@ -76,7 +76,118 @@ Furthermore, I have served as a teaching assistant for several courses, includin
 <div id="teaching" class="section">
   <h2>Teaching</h2>
   <p>
-    (Insert Tabel)
+  <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%;">
+    <thead>
+      <tr>
+        <th>Semester</th>
+        <th style="text-align: center;">Mata Kuliah</th>
+        <th>Dosen</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="1">Semester Reguler PTA 2023/24</td>
+        <td style="text-align: center;">Pengantar Sains Data Matematika (C)</td>
+        <td>Dr. Dra. Yekti Widyarningsih, M.Si.</td>
+      </tr>
+      <tr>
+        <td rowspan="3">Semester Reguler ATA 2023/24</td>
+        <td style="text-align: center;">Pengantar Sains Data Biologi (B)</td>
+        <td>
+          <ul>
+            <li>Dr. Dra. Yekti Widyarningsih, M.Si.</li>
+            <li>Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Pengantar Sains Data Biologi (C)</td>
+        <td>Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Statistika Matematika 1 (B)</td>
+        <td>Dr. Ida Fithriani, M.Si.</td>
+      </tr>
+      <tr>
+        <td rowspan="7">Semester Pendek PTA 2023/24</td>
+        <td style="text-align: center;">Pengantar Sains Data MIPA (A)</td>
+        <td>Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Pengantar Sains Data MIPA (B)</td>
+        <td>Dr. Dra. Yekti Widyarningsih, M.Si.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Pengantar Sains Data MIPA (C)</td>
+        <td>Gianinna Ardaneswari, S.Si., M.Si.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Pengantar Sains Data MIPA (D)</td>
+        <td>Devvi Sarwinda, M.Kom.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Pengantar Sains Data MIPA (E)</td>
+        <td>Sarini Abdullah, S.Si., M.Stats., Ph.D.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Persamaan Diferensial Biasa</td>
+        <td>
+          <ul>
+            <li>Dr. Dipo Aldila, S.Si., M.Si.</li>
+            <li>Maulana Malik, S.Si., M.Si.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td rowspan="5">Semester Reguler PTA 2024/25</td>
+        <td style="text-align: center;">Pengantar Sains Data Matematika (A)</td>
+        <td>Gianinna Ardaneswari, S.Si., M.Si.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Pengantar Sains Data Matematika (D)</td>
+        <td>
+          <ul>
+            <li>Sarini Abdullah, S.Si., M.Stats., Ph.D.</li>
+            <li>Fida Fathiyah Addini, M.Si.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Pengantar Sains Data MIPA (B)</td>
+        <td>Devvi Sarwinda, M.Kom.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Pengantar Sains Data MIPA (D)</td>
+        <td>Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Persamaan Diferensial Biasa</td>
+        <td>Dr. Dipo Aldila, S.Si., M.Si.</td>
+      </tr>
+      <tr>
+        <td rowspan="4">Semester Reguler ATA 2025/26</td>
+        <td style="text-align: center;">Sains Data (A)</td>
+        <td>Dra. Bevina Desjiwiandra Handari, M.Si., Ph.D.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Sains Data (B)</td>
+        <td>Devvi Sarwinda, M.Kom.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Geometri Analitik (A)</td>
+        <td>Peter John, M.Si.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Geometri Analitik (B)</td>
+        <td>
+          <ul>
+            <li>Herolistra Baskoroputro, Ph.D.</li>
+            <li>Muhammad Imran, S.Si., M.Sc.</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
   </p>
 </div>
 
