@@ -1,9 +1,28 @@
-<nav>
-  <ul>
-    <li><a href="#cover">Cover</a></li>
-    <li><a href="#soal-responsi">Soal Responsi</a></li>
-  </ul>
-</nav>
+<style>
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: #f5f5f5;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+.navbar a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+.navbar a:hover {
+  color: #007acc;
+}
+</style>
+
+<div class="navbar">
+  <a href="#cover">Cover</a>
+  <a href="#soal-responsi">Soal Responsi</a>
+  <a href="#teaching">Teaching</a>
+</div>
 
 ## <a name="cover"></a> Cover
 
@@ -32,7 +51,5 @@ Furthermore, I have served as a teaching assistant for several courses, includin
 - [Soal 2](#)
 
 ### Geometri Analitik
-
-> *This project is maintained by [Renjeyy](https://github.com/renjeyy)*  
-> Hosted on GitHub Pages — Theme by *orderedlist*
-
+- [Soal 1](#)
+- [Soal 2](#)
