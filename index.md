@@ -5,12 +5,9 @@
   </ul>
 </nav>
 
-## <a name="cover"></a>📌 Cover
+## <a name="cover"></a> Cover
 
 <img src="docs/assets/Foto Renji.png" alt="Foto Renjeyy" width="200" />
-
-**Repository Responsi Renjeyy**  
-_Kumpulan Soal Responsi yang Pernah Diasdosin_
 
 [View the Project on GitHub](https://github.com/renjeyy/renjeyy-repository.github.io)
 
@@ -26,7 +23,7 @@ Furthermore, I have served as a teaching assistant for several courses, includin
 ---
 
 <!-- Section: Soal Responsi -->
-## <a name="soal-responsi"></a>🧠 Soal Responsi
+## <a name="soal-responsi"></a> Soal Responsi
 
 ### Persamaan Diferensial Biasa
 - [Soal 1](#)
