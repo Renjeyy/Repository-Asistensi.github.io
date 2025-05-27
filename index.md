@@ -79,9 +79,11 @@ Furthermore, I have served as a teaching assistant for several courses, includin
 <div id="project" class="section">
   <h2>Project</h2>
   <ul>
-    <li><strong>Tes</strong> – Menggunakan CNN untuk segmentasi citra medis.</li>
-    <li><strong>Unstructured Data Classification</strong> – Text classification dengan BERT.</li>
-    <li><strong>Data Visualizer Dashboard</strong> – Visualisasi interaktif menggunakan Dash & Plotly.</li>
+    <li><strong>Aditya, R., Hutapea, D., Sukarno, P., & Rabani, H. F. (Ongoing). Text Modelling and Sentiment on Indonesia’s Budget Efficiency in 2025.</strong></li>
+    <li><strong>Aditya, R., Hutapea, D., Sukarno, P., Al Farizi, B., & Muhammad, E. (2024). Accuracy Analysis Of Neural Network Models For Fraud Prediction In Car Insurance Claims</strong></li>
+    <li><strong>Aditya, R., Hutapea, D., Muhammad, E., Sukarno, P., Damara, B., Jilan, M., & Wahhab, A. (2024). Model Matematika Untuk Mengestimasi Waktu Maksimal Penerjung Payung Militer Membuka Parasut</strong> </li>
+    <li><strong>Aditya, R., Hutapea, D. N., Sitindaon, F. A., Wahhab, A., Wicaksono, M. J., Muhammad, E., & Sukarno, P. A. (2024). Penjadwalan Ruangan Kuliah di Departemen Matematika dengan Pendekatan Metode Metaheuristik</strong> </li>
+    <li><strong>Aditya, R., Hutapea, D. N., Sitindaon, F. A., & Sukarno, P. A. (2023). Analisis Jaringan Sosial Facebook Untuk Menentukan Aktor Penting Menggunakan Betweenness Centrality</strong> </li>
   </ul>
 </div>
 
@@ -89,8 +91,10 @@ Furthermore, I have served as a teaching assistant for several courses, includin
 <div id="publication" class="section">
   <h2>Publication</h2>
   <ul>
-    <li><em>"Neural Networks for Biomedical Imaging"</em>, submitted to Journal of Medical AI, 2024.</li>
-    <li><em>"Unstructured Data Analysis for Academic Profiling"</em>, FMIPA Research Day, 2023.</li>
+    <li><strong>Aditya, R., Hutapea, D. N., Sitindaon, F. A., & Rusin, R. (2025). Predator-Prey Model Incorporating Self Limiting and Holling Type II and Its Application Industrial Factory Games</strong></li>
+    <li><strong>Aditya, R., Salamah, S., & Rabani, H. (2024). Forecasting East Jakarta’s Pollution Using SARIMA</strong></li>
+    <li><strong>Aditya, R., Hutapea, D. N., Sitindaon, F. A., Wahhab,A., & Sukarno, P. A. (2024). Penerapan Teori Grup dalam Permainan Rubic’s Cube berukuran 3 × 3 × 3</strong></li>
+    <li><strong>Aditya, R., Hutapea, D. N., Rabani, H. F., Santoso, A. S., Ilmiyah, F. F., Makarim, D. A., & Hakim, N. S. (2024). Harnessing Technology for Climate Action : LSTM Modeling of Agricultural Emissions for SDGs 13</strong></li>
   </ul>
 </div>
 
