@@ -303,7 +303,7 @@ theory.</li>
 <div id="nilai tugas" class="section">
 <h2>Semester Reguler ATA 2025/26</h2>
   <h3>Sains Data (A) : Kelas Bu Bevina</h3>
-    
+    Diupload pada tanggal 11 Juni 2025
   <h3>Sains Data (B) : Kelas Bu Devvi</h3>
     <html lang="en">
 <head>
