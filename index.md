@@ -44,6 +44,11 @@ One of my notable involvements has been with the Mathematics Department Student 
 <p>
 Furthermore, I have served as a teaching assistant for several courses, including Ordinary Differential Equations, Data Science, Analytical Geometry, and Introduction to Data Science. In this capacity, I have had the privilege of guiding my peers in their academic endeavors by providing support during lectures, facilitating discussion groups, and assisting with coursework. These experiences have significantly contributed to my academic and professional development, allowing me to refine my leadership, communication, and teamwork skills, which I believe are essential for my future pursuits in the field of mathematics.
   </p>
+  <h3>Area Of Expertise</h3>
+  <li><strong>Deep Leaning</strong></li>
+  <li><strong>Neural Networks</strong></li>
+  <li><strong>Image Processing</strong></li>
+  <li><strong>Differential Equations</strong></li>
 </div>
 
 <!-- Soal Responsi Section -->
