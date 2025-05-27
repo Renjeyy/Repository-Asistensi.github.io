@@ -111,6 +111,21 @@ Furthermore, I have served as a teaching assistant for several courses, includin
       <li><a href="https://drive.google.com/drive/folders/15oDqvAjaYUlyEBRGXH-OULgWD51Y6JPA?usp=drive_link">Try Out Sains Data</a></li>
     </ul>
   </ul>
+
+  <h3>Geometri Analitik</h3>
+  <ul>
+    <li>Semester Reguler PTA 2025/26</li>
+    <ul>
+        <li><a href="https://drive.google.com/drive/folders/14bJPrNo2yQQRm7Yn3bN3aCPLxUuuue8t?usp=drive_link">PPT Materi</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1kHAnwmo16MHyPvTOe5h4hZ5PGCsVAq3M?usp=drive_link">Garis dan Bidang (Abdul Wahhab)</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1NNVexrEBgI0sEzNAhhzEvJz2_Q8d9ZKn?usp=drive_link">Lingkaran dan Bola (Abdul Wahhab)</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1JmObQRegB3soXLOkDZ5r6pVCQB3zbgBy?usp=drive_link">Konik dan Kuadrik (Abdul Wahhab, Brayen Damara) </a></li>
+        <li><a href="https://drive.google.com/drive/folders/1E5QSoBkpgLUwEA1GfrajnudyQZu2b2yR?usp=drive_link">Teori Umum Konik dan Kuadrik (Brayen Damara, Fritz Adelbertus)</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1Vo24krcSxUqiALuNIBK9gg3EE22iO9Cd?usp=drive_link">Klasifikasi Konik dan Kuadrik (Renzie Aditya)</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1PWHm8SJm8-0yOk0pdue7yjh1ZavQ1BsT?usp=drive_link">Transformasi Geometri & Afin (Renzie Aditya)</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1hTeHzZcui2ka_rNJLIykbUd335Rxvpkv?usp=drive_link">UAS (Abdul Wahhab)e</a></li>
+    </ul>
+  </ul>
 </div>
 
 <!-- Teaching Section -->
