@@ -31,6 +31,7 @@
   <a onclick="showSection('teaching')">Teaching</a>
   <a onclick="showSection('project')">Project</a>
   <a onclick="showSection('publication')">Publication</a>
+  <a onclick="showSection('nilai tugas')">Nilai Tugas</a>
 </div>
 
 <!-- Cover Section -->
@@ -297,6 +298,12 @@ theory.</li>
       </ul>
     </li>
   </ul>
+</div>
+
+<div id="nilai tugas" class="section">
+<h2>Nilai Tugas Mata Kuliah</h2>
+  <h3>Sains Data (A) : Kelas Bu Bevina</h3>
+  <h3>Sains Data (B) : Kelas Bu Devvi</h3>
 </div>
 
 <script>
