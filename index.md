@@ -195,7 +195,7 @@ Parachute.</li>
         <li><a ">View Project</a></li>
       </ul>
     </li>
-    <li>A<strong>ditya, R., Hutapea, D. N., Wahhab, A., Wicaksono, M. J., Muhammad, E., & Sukarno, P. A. (2024).Penjadwalan Ruangan Kuliah di Departemen Matematika dengan Pendekatan Metode Metaheuristik</strong> 
+    <li><strong>Aditya, R., Hutapea, D. N., Wahhab, A., Wicaksono, M. J., Muhammad, E., & Sukarno, P. A. (2024).Penjadwalan Ruangan Kuliah di Departemen Matematika dengan Pendekatan Metode Metaheuristik</strong> 
     <ul>
       <li>Description: Conducted a research on scheduling problems at the Departement of Mathematics, FMIPA UI, using Simulated
 Annealing as the metaheuristic method..</li>
