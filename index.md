@@ -729,7 +729,7 @@ theory.</li>
             <tr>
                 <td>33</td>
                 <td>2306261210</td>
-                <td>A, Nurhalizah Multazam Haidir</td>
+                <td>A Nurhalizah Multazam Haidir</td>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>98</td>
@@ -753,7 +753,7 @@ theory.</li>
             <tr>
                 <td>35</td>
                 <td>2306261280</td>
-                <td>Hamindyta Khairunnisa</td>
+                <td>Harnindyta Khairunnisa</td>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>95</td>
