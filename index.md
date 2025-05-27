@@ -138,31 +138,31 @@ Furthermore, I have served as a teaching assistant for several courses, includin
         </td>
       </tr>
       <tr>
-        <td style="border: 2px solid #000; padding: 10px;" rowspan="5">Semester Reguler PTA 2024/25</td>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data Matematika (A)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Gianinna Ardaneswari, S.Si., M.Si.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data Matematika (D)</td>
-        <td style="border: 2px solid #000; padding: 10px;">
-          <ul style="margin: 0; padding-left: 20px;">
-            <li>Sarini Abdullah, S.Si., M.Stats., Ph.D.</li>
-            <li>Fida Fathiyah Addini, M.Si.</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data MIPA (B)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Devvi Sarwinda, M.Kom.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data MIPA (D)</td>
-        <td style="border: 2px solid #000; padding: 10px;">Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
-      </tr>
-      <tr>
-        <td style="border: 2px solid #000; padding: 10px; text-align: center;">Persamaan Diferensial Biasa</td>
-        <td style="border: 2px solid #000; padding: 10px;">Dr. Dipo Aldila, S.Si., M.Si.</td>
-      </tr>
+  <td style="border: 2px solid #000; padding: 10px;" rowspan="5">Semester Reguler PTA 2024/25</td>
+  <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data Matematika (A)</td>
+  <td style="border: 2px solid #000; padding: 10px;">Gianinna Ardaneswari, S.Si., M.Si.</td>
+</tr>
+<tr>
+  <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data Matematika (D)</td>
+  <td style="border: 2px solid #000; padding: 10px;">
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Sarini Abdullah, S.Si., M.Stats., Ph.D.</li>
+      <li>Fida Fathiyah Addini, M.Si.</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data MIPA (B)</td>
+  <td style="border: 2px solid #000; padding: 10px;">Devvi Sarwinda, M.Kom.</td>
+</tr>
+<tr>
+  <td style="border: 2px solid #000; padding: 10px; text-align: center;">Pengantar Sains Data MIPA (D)</td>
+  <td style="border: 2px solid #000; padding: 10px;">Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
+</tr>
+<tr>
+  <td style="border: 2px solid #000; padding: 10px; text-align: center;">Persamaan Diferensial Biasa</td>
+  <td style="border: 2px solid #000; padding: 10px;">Dr. Dipo Aldila, S.Si., M.Si.</td>
+</tr>
       <tr>
         <td style="border: 2px solid #000; padding: 10px;" rowspan="4">Semester Reguler ATA 2025/26</td>
         <td style="border: 2px solid #000; padding: 10px; text-align: center;">Sains Data (A)</td>
