@@ -84,12 +84,28 @@ Furthermore, I have served as a teaching assistant for several courses, includin
       <li><a href="https://drive.google.com/drive/folders/189zqO3Lw4fdp3yOX8klB4vZ_gJh35CBB?usp=drive_link">Laplace</a></li>
       <li><a href="https://drive.google.com/drive/folders/1Dg73BkBHH08OCjC_aRyPQmqwQMqi7h3P?usp=drive_link">Sistem PDB</a></li>
       <li><a href="https://drive.google.com/drive/folders/172fVBuUodEpALVt6EAYi7D9tAotjPO-C?usp=drive_link">Pendahuluan Sistem Dinamik</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1DYrnncy4ks5Grnnzy4ft8BfFJDZS_EPP?usp=drive_link">Solusi Tutorial Bab 1</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1kzOW0S3zpG_cldFs3jTIQpj_KMLqfVEn?usp=drive_link">UTS</a></li>
     </ul>
   </ul>
 
   <h3>Sains Data</h3>
   <ul>
-    <li><a href="#">Soal 1</a></li>
+    <li>Semester Reguler ATA 2025/26</li>
+    <ul>
+        <li><a href="https://drive.google.com/drive/folders/13jEJgI9Af_O31BZoO6L2v43KlP-ajBzK?usp=drive_link">Dasar-Dasar Pemrograman Python</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1tf35LIjN_VYW43KTwSevs-ccFMpPBufV?usp=drive_link">Statistika Sains Data</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1Krb6u0yjbAnAxc_pJk9OG5jV_6XaifUZ?usp=drive_link">Metodologi Sains Data</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1lRVHUftlRbTvizAcYzx6jtC6MbdMKeZt?usp=drive_link">Data Wrangling</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1dVxyG_FFRmwpsJFmXtBf1Fo_qf3kux2o?usp=drive_link">Supervised Learning</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1FBLasWTdAs6qGJpEjTIIpP97nccZUR1q?usp=drive_link">Advanced Supervised Learning</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1ufVxpetosqzSY_ISi405ruYtzLcLN4TC?usp=drive_link">Support Vector Machine</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1a3K7U4A8tEkr6lz-w4Vl-27cQ8MlpdvA?usp=drive_link">Advanced Support Vector Machine</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1fcavRTO1xNubRCZMU4twfxJxQ55sBROO?usp=drive_link">K-Means Clustering</a></li>
+      <li><a href="https://drive.google.com/drive/folders/11XqnlKresKog9vkPPWs-uwQrqFSECKcd?usp=drive_link">Gini Index & Entropy</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1c-XG5sIbJy_iMWNAhxPdkon0nYKbvB-N?usp=drive_link">Piiihan Ganda UTS Sebelumnya</a></li>
+      <li><a href="https://drive.google.com/drive/folders/15oDqvAjaYUlyEBRGXH-OULgWD51Y6JPA?usp=drive_link">Try Out Sains Data</a></li>
+    </ul>
   </ul>
 </div>
 
