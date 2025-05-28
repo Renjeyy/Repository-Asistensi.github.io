@@ -83,8 +83,8 @@ Furthermore, I have served as a teaching assistant for several courses, includin
         <li><a href="https://drive.google.com/drive/folders/1gNHHzcsr4BCcOaMwxVfEG4E2hrLeFieX?usp=drive_link">Kontrak Responsi</a></li>
         <li><a href="https://drive.google.com/drive/folders/1dfr0CIuhKH_0ekl5S09VtNuV16sdEHbB?usp=drive_link">Pendahuluan</a></li>
         <li><a href="https://drive.google.com/drive/folders/1U-HahPv1lVrBm4x7sHk3V6CrtwxFrjkY?usp=drive_link">Masalah Nilai Awal & Bidang Fase</a></li>
-        <li><a href="https://drive.google.com/drive/folders/1musWOnhZgtGhaEbHQ1SQItKz6J6BNCK_?usp=drive_link">MKTT</a></li>
-        <li><a href="https://drive.google.com/drive/folders/1yLeVvesjMof59OwxwCTTqp8QHOPRxSyt?usp=drive_link">MVP</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1musWOnhZgtGhaEbHQ1SQItKz6J6BNCK_?usp=drive_link">Metode Koefisien Tak Tentu</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1yLeVvesjMof59OwxwCTTqp8QHOPRxSyt?usp=drive_link">Metode Variasi Parameter</a></li>
         <li><a href="https://drive.google.com/drive/folders/11OtvOKdhwF_fEX6MvPpCFZf1v6-_uW_F?usp=drive_link">Deret</a></li>
       <li><a href="https://drive.google.com/drive/folders/189zqO3Lw4fdp3yOX8klB4vZ_gJh35CBB?usp=drive_link">Laplace</a></li>
       <li><a href="https://drive.google.com/drive/folders/1Dg73BkBHH08OCjC_aRyPQmqwQMqi7h3P?usp=drive_link">Sistem PDB</a></li>
