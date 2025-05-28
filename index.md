@@ -85,8 +85,8 @@ Furthermore, I have served as a teaching assistant for several courses, includin
         <li><a href="https://drive.google.com/drive/folders/1U-HahPv1lVrBm4x7sHk3V6CrtwxFrjkY?usp=drive_link">Masalah Nilai Awal & Bidang Fase</a></li>
         <li><a href="https://drive.google.com/drive/folders/1musWOnhZgtGhaEbHQ1SQItKz6J6BNCK_?usp=drive_link">Metode Koefisien Tak Tentu</a></li>
         <li><a href="https://drive.google.com/drive/folders/1yLeVvesjMof59OwxwCTTqp8QHOPRxSyt?usp=drive_link">Metode Variasi Parameter</a></li>
-        <li><a href="https://drive.google.com/drive/folders/11OtvOKdhwF_fEX6MvPpCFZf1v6-_uW_F?usp=drive_link">Deret</a></li>
-      <li><a href="https://drive.google.com/drive/folders/189zqO3Lw4fdp3yOX8klB4vZ_gJh35CBB?usp=drive_link">Laplace</a></li>
+        <li><a href="https://drive.google.com/drive/folders/11OtvOKdhwF_fEX6MvPpCFZf1v6-_uW_F?usp=drive_link">Solusi PDB Dengan Pendekatan Deret</a></li>
+      <li><a href="https://drive.google.com/drive/folders/189zqO3Lw4fdp3yOX8klB4vZ_gJh35CBB?usp=drive_link">Transformasi Laplace</a></li>
       <li><a href="https://drive.google.com/drive/folders/1Dg73BkBHH08OCjC_aRyPQmqwQMqi7h3P?usp=drive_link">Sistem PDB</a></li>
       <li><a href="https://drive.google.com/drive/folders/172fVBuUodEpALVt6EAYi7D9tAotjPO-C?usp=drive_link">Pendahuluan Sistem Dinamik</a></li>
       <li><a href="https://drive.google.com/drive/folders/1DYrnncy4ks5Grnnzy4ft8BfFJDZS_EPP?usp=drive_link">Solusi Tutorial Bab 1</a></li>
