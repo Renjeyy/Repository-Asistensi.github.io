@@ -924,6 +924,7 @@ theory.</li>
         </tr>
     </tbody>
 </table>
+* Not Published = Nilai sudah ada di tangan dosen
 </body>
 </html>
 
