@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8c4e8ca8-3dec-4fd2-8b42-cbfeb734864d)<style>
+<style>
 .navbar {
   display: flex;
   justify-content: center;
