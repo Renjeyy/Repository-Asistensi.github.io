@@ -351,7 +351,7 @@ theory.</li>
             <td>2019</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>93</td>
             <td>0</td>
             <td>88</td>
@@ -368,7 +368,7 @@ theory.</li>
             <td>2019</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>95</td>
             <td>92</td>
             <td>97</td>
@@ -385,7 +385,7 @@ theory.</li>
             <td>2019</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>0</td>
             <td>89</td>
             <td>0</td>
@@ -402,7 +402,7 @@ theory.</li>
             <td>2021</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>92</td>
             <td>90</td>
             <td>87</td>
@@ -415,11 +415,11 @@ theory.</li>
         <tr>
             <td>5</td>
             <td>2206039546</td>
-            <td>Teuku Kumyal Sojuangon Al Farizi</td>
+            <td>Teuku Kumayl Sojuangon Al Farizi</td>
             <td>2022</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>90</td>
             <td>90</td>
             <td>87</td>
@@ -436,7 +436,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>75</td>
             <td>92</td>
             <td>0</td>
@@ -453,7 +453,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>84</td>
             <td>85</td>
             <td>85</td>
@@ -470,7 +470,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>86</td>
             <td>93</td>
             <td>88</td>
@@ -487,7 +487,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>80</td>
             <td>82</td>
             <td>86</td>
@@ -504,7 +504,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>85</td>
             <td>82</td>
             <td>86</td>
@@ -521,7 +521,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>86</td>
             <td>91</td>
             <td>90</td>
@@ -538,7 +538,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>87</td>
             <td>93</td>
             <td>88</td>
@@ -555,7 +555,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>77</td>
             <td>92</td>
             <td>9.7</td>
@@ -572,7 +572,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>88</td>
             <td>0</td>
             <td>88</td>
@@ -589,7 +589,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>84</td>
             <td>91</td>
             <td>83</td>
@@ -606,7 +606,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>86</td>
             <td>91</td>
             <td>90</td>
@@ -623,7 +623,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>88</td>
             <td>85</td>
             <td>85</td>
@@ -640,7 +640,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>83</td>
             <td>0</td>
             <td>88</td>
@@ -657,7 +657,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>83</td>
             <td>93</td>
             <td>88</td>
@@ -674,7 +674,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>0</td>
             <td>93</td>
             <td>88</td>
@@ -691,7 +691,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>78</td>
             <td>0</td>
             <td>88</td>
@@ -708,7 +708,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>83</td>
             <td>91</td>
             <td>83</td>
@@ -725,7 +725,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>86</td>
             <td>91</td>
             <td>83</td>
@@ -742,7 +742,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>80</td>
             <td>90</td>
             <td>87</td>
@@ -759,7 +759,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>83</td>
             <td>91</td>
             <td>90</td>
@@ -776,7 +776,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>82</td>
             <td>91</td>
             <td>90</td>
@@ -793,7 +793,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>84</td>
             <td>92</td>
             <td>97</td>
@@ -810,7 +810,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>80</td>
             <td>92</td>
             <td>97</td>
@@ -827,7 +827,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>85</td>
             <td>82</td>
             <td>86</td>
@@ -844,7 +844,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>85</td>
             <td>85</td>
             <td>85</td>
@@ -861,7 +861,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>79</td>
             <td>90</td>
             <td>87</td>
@@ -878,7 +878,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>83</td>
             <td>85</td>
             <td>85</td>
@@ -895,7 +895,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>80</td>
             <td>91</td>
             <td>83</td>
@@ -912,7 +912,7 @@ theory.</li>
             <td>2023</td>
             <td>Matematika</td>
             <td>Not Published</td>
-            <td>Not Published</td>
+            <td>Empty</td>
             <td>81</td>
             <td>82</td>
             <td>86</td>
@@ -975,7 +975,7 @@ theory.</li>
                 <td>2021</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>0</td>
                 <td>95</td>
                 <td>92</td>
@@ -989,7 +989,7 @@ theory.</li>
                 <td>2021</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>90</td>
                 <td>93</td>
                 <td>95</td>
@@ -1003,7 +1003,7 @@ theory.</li>
                 <td>2022</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>97</td>
                 <td>94</td>
                 <td>97</td>
@@ -1017,7 +1017,7 @@ theory.</li>
                 <td>2022</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>94</td>
                 <td>94</td>
                 <td>97</td>
@@ -1031,7 +1031,7 @@ theory.</li>
                 <td>2022</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>94</td>
                 <td>93</td>
                 <td>95</td>
@@ -1045,7 +1045,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>90</td>
                 <td>96</td>
                 <td>93</td>
@@ -1059,7 +1059,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>86</td>
                 <td>94</td>
                 <td>92</td>
@@ -1073,7 +1073,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>93</td>
                 <td>93</td>
                 <td>98</td>
@@ -1087,7 +1087,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>95</td>
                 <td>98</td>
                 <td>98</td>
@@ -1101,7 +1101,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>94</td>
                 <td>91</td>
                 <td>93</td>
@@ -1115,7 +1115,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>85</td>
                 <td>93</td>
                 <td>95</td>
@@ -1129,7 +1129,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>92</td>
                 <td>94</td>
                 <td>97</td>
@@ -1143,7 +1143,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>97</td>
                 <td>98</td>
                 <td>98</td>
@@ -1157,7 +1157,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>0</td>
                 <td>93</td>
                 <td>94</td>
@@ -1171,7 +1171,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>98</td>
                 <td>93</td>
                 <td>97</td>
@@ -1185,7 +1185,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>90</td>
                 <td>95</td>
                 <td>98</td>
@@ -1199,7 +1199,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>76</td>
                 <td>96</td>
                 <td>93</td>
@@ -1213,7 +1213,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>85</td>
                 <td>93</td>
                 <td>95</td>
@@ -1227,7 +1227,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>87</td>
                 <td>94</td>
                 <td>92</td>
@@ -1241,7 +1241,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>93</td>
                 <td>96</td>
                 <td>95</td>
@@ -1255,7 +1255,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>96</td>
                 <td>95</td>
                 <td>95</td>
@@ -1269,7 +1269,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>88</td>
                 <td>90</td>
                 <td>94</td>
@@ -1283,7 +1283,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>90</td>
                 <td>95</td>
                 <td>95</td>
@@ -1297,7 +1297,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>85</td>
                 <td>93</td>
                 <td>96</td>
@@ -1311,7 +1311,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>95</td>
                 <td>98</td>
                 <td>98</td>
@@ -1325,7 +1325,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>96.5</td>
                 <td>93</td>
                 <td>95</td>
@@ -1339,7 +1339,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>92</td>
                 <td>90</td>
                 <td>94</td>
@@ -1353,7 +1353,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>89</td>
                 <td>95</td>
                 <td>96</td>
@@ -1367,7 +1367,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>97.5</td>
                 <td>96</td>
                 <td>95.5</td>
@@ -1381,7 +1381,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>94</td>
                 <td>94</td>
                 <td>98</td>
@@ -1395,7 +1395,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>90</td>
                 <td>95</td>
                 <td>96</td>
@@ -1409,7 +1409,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>0</td>
                 <td>0</td>
                 <td>95</td>
@@ -1423,7 +1423,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>98</td>
                 <td>96</td>
                 <td>97</td>
@@ -1437,7 +1437,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>93</td>
                 <td>96</td>
                 <td>95</td>
@@ -1451,7 +1451,7 @@ theory.</li>
                 <td>2023</td>
                 <td>Matematika</td>
                 <td>Not Published</td>
-                <td>Not Published</td>
+                <td>Empty</td>
                 <td>95</td>
                 <td>96</td>
                 <td>95.5</td>
