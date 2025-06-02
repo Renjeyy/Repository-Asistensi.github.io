@@ -1,4 +1,4 @@
-<style>
+![image](https://github.com/user-attachments/assets/8c4e8ca8-3dec-4fd2-8b42-cbfeb734864d)<style>
 .navbar {
   display: flex;
   justify-content: center;
@@ -303,7 +303,631 @@ theory.</li>
 <div id="nilai tugas" class="section">
 <h2>Semester Reguler ATA 2025/26</h2>
   <h3>Sains Data (A) : Kelas Bu Bevina</h3>
-    Diupload pada tanggal 11 Juni 2025
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Mahasiswa</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            font-family: Arial, sans-serif;
+        }
+        th, td {
+            border: 1px solid #000; /* Mengganti warna border menjadi hitam agar tetap terlihat jelas */
+            text-align: left;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Data Nilai Mahasiswa</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>No</th>
+            <th>NPM</th>
+            <th>Nama Mahasiswa</th>
+            <th>Angkatan</th>
+            <th>Program Studi</th>
+            <th>UTS</th>
+            <th>UAS</th>
+            <th>Tugas 1</th>
+            <th>Tugas 2</th>
+            <th>Tugas 3</th>
+            <th>Tugas 4</th>
+            <th>Tugas 5</th>
+            <th>Tugas 6</th>
+            <th>Tugas 7</th>
+            <th>Rata-rata Tugas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>1906352041</td>
+            <td>Rafli Ichsan Mahendra</td>
+            <td>2019</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>0</td>
+            <td>88</td>
+            <td>95</td>
+            <td>93</td>
+            <td>94</td>
+            <td>93</td>
+            <td>79.43</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>1906352060</td>
+            <td>Fakhri Perdana Tito Fareza</td>
+            <td>2019</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>95</td>
+            <td>92</td>
+            <td>97</td>
+            <td>95</td>
+            <td>93</td>
+            <td>94</td>
+            <td>93</td>
+            <td>94.144</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>1906352073</td>
+            <td>Ashley Matthew Yafeth Kainama</td>
+            <td>2019</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>0</td>
+            <td>89</td>
+            <td>0</td>
+            <td>95</td>
+            <td>93</td>
+            <td>94</td>
+            <td>93</td>
+            <td>66.29</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>2106852850</td>
+            <td>Haykal Jawaharial Ahmad</td>
+            <td>2021</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>92</td>
+            <td>90</td>
+            <td>87</td>
+            <td>95</td>
+            <td>93</td>
+            <td>94</td>
+            <td>93</td>
+            <td>92</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>2206039546</td>
+            <td>Teuku Kumyal Sojuangon Al Farizi</td>
+            <td>2022</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>90</td>
+            <td>90</td>
+            <td>87</td>
+            <td>97</td>
+            <td>95</td>
+            <td>95</td>
+            <td>94</td>
+            <td>92.57</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>2306153824</td>
+            <td>Eka Susanti Oktavia Ramadhani</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>75</td>
+            <td>92</td>
+            <td>0</td>
+            <td>97</td>
+            <td>95</td>
+            <td>95</td>
+            <td>94</td>
+            <td>78.29</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>2306153862</td>
+            <td>Jasmine Allycia Iskak</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>84</td>
+            <td>85</td>
+            <td>85</td>
+            <td>97</td>
+            <td>95</td>
+            <td>95</td>
+            <td>94</td>
+            <td>90.71</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>2306153881</td>
+            <td>Maria Monica Yuniar Marpaung</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>86</td>
+            <td>93</td>
+            <td>88</td>
+            <td>97</td>
+            <td>95</td>
+            <td>95</td>
+            <td>94</td>
+            <td>92.57</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>2306153925</td>
+            <td>Almaas Sulthonu Alandra</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>80</td>
+            <td>82</td>
+            <td>86</td>
+            <td>92</td>
+            <td>93</td>
+            <td>94</td>
+            <td>93</td>
+            <td>88.57</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>2306153931</td>
+            <td>Richard Gordon Hamonangan Sinurat</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>85</td>
+            <td>82</td>
+            <td>86</td>
+            <td>92</td>
+            <td>93</td>
+            <td>94</td>
+            <td>92</td>
+            <td>89.14</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>2306153944</td>
+            <td>Vanya Alisha Zafira</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>86</td>
+            <td>91</td>
+            <td>90</td>
+            <td>92</td>
+            <td>93</td>
+            <td>94</td>
+            <td>93</td>
+            <td>91.29</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>2306153963</td>
+            <td>Najwa Fatimatul Zara</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>87</td>
+            <td>93</td>
+            <td>88</td>
+            <td>92</td>
+            <td>93</td>
+            <td>94</td>
+            <td>93</td>
+            <td>91.43</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>2306201400</td>
+            <td>Bosar Martua Sinaga</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>77</td>
+            <td>92</td>
+            <td>9.7</td>
+            <td>91</td>
+            <td>89</td>
+            <td>90</td>
+            <td>92</td>
+            <td>77.25</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>2306209315</td>
+            <td>Jery Yosua Manulang</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>88</td>
+            <td>0</td>
+            <td>88</td>
+            <td>91</td>
+            <td>89</td>
+            <td>90</td>
+            <td>92</td>
+            <td>76.86</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>2306210645</td>
+            <td>Muhammad Abyan Laksamana</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>84</td>
+            <td>91</td>
+            <td>83</td>
+            <td>91</td>
+            <td>89</td>
+            <td>90</td>
+            <td>92</td>
+            <td>88.57</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>2306213911</td>
+            <td>Revina Fitria Lestari</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>86</td>
+            <td>91</td>
+            <td>90</td>
+            <td>91</td>
+            <td>89</td>
+            <td>90</td>
+            <td>92</td>
+            <td>89.86</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>2306216623</td>
+            <td>Siti Nurul Fajriah</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>88</td>
+            <td>85</td>
+            <td>85</td>
+            <td>92</td>
+            <td>47.5</td>
+            <td>93</td>
+            <td>96</td>
+            <td>83.79</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>2306217260</td>
+            <td>Muhammad Syam Firdaus</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>83</td>
+            <td>0</td>
+            <td>88</td>
+            <td>92</td>
+            <td>47.5</td>
+            <td>93</td>
+            <td>96</td>
+            <td>71.36</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>2306220204</td>
+            <td>Salsabila Shafa Rentua</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>83</td>
+            <td>93</td>
+            <td>88</td>
+            <td>92</td>
+            <td>47.5</td>
+            <td>93</td>
+            <td>96</td>
+            <td>84.64</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>2306221812</td>
+            <td>Rizka Zulaika</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>0</td>
+            <td>93</td>
+            <td>88</td>
+            <td>92</td>
+            <td>47.5</td>
+            <td>93</td>
+            <td>96</td>
+            <td>72.79</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>2306225792</td>
+            <td>Dimas Prasetya Utama</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>78</td>
+            <td>0</td>
+            <td>88</td>
+            <td>92</td>
+            <td>92</td>
+            <td>90</td>
+            <td>93</td>
+            <td>76.57</td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>2306230211</td>
+            <td>Athallah Akmal</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>83</td>
+            <td>91</td>
+            <td>83</td>
+            <td>88</td>
+            <td>92</td>
+            <td>90</td>
+            <td>93</td>
+            <td>88.57</td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>2306231353</td>
+            <td>Muhammad Daffa</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>86</td>
+            <td>91</td>
+            <td>83</td>
+            <td>88</td>
+            <td>92</td>
+            <td>90</td>
+            <td>93</td>
+            <td>89</td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>2306238435</td>
+            <td>Omar Alexander Putra</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>80</td>
+            <td>90</td>
+            <td>87</td>
+            <td>88</td>
+            <td>92</td>
+            <td>90</td>
+            <td>93</td>
+            <td>88.58</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>2306238473</td>
+            <td>Nayla Qadrina Sundoro</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>83</td>
+            <td>91</td>
+            <td>90</td>
+            <td>93</td>
+            <td>90</td>
+            <td>94</td>
+            <td>93</td>
+            <td>90.58</td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>2306244066</td>
+            <td>Adinda Cahyani</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>82</td>
+            <td>91</td>
+            <td>90</td>
+            <td>93</td>
+            <td>90</td>
+            <td>94</td>
+            <td>93</td>
+            <td>90.43</td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>2306244154</td>
+            <td>Rizal Hafiz Panjaitan</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>84</td>
+            <td>92</td>
+            <td>97</td>
+            <td>93</td>
+            <td>90</td>
+            <td>94</td>
+            <td>93</td>
+            <td>91.86</td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>2306244192</td>
+            <td>Muhammad Fawwaz Shabri</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>80</td>
+            <td>92</td>
+            <td>97</td>
+            <td>93</td>
+            <td>90</td>
+            <td>94</td>
+            <td>93</td>
+            <td>91.29</td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>2306260574</td>
+            <td>Muhammad Fadhilah Zahran</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>85</td>
+            <td>82</td>
+            <td>86</td>
+            <td>93</td>
+            <td>90</td>
+            <td>94</td>
+            <td>93</td>
+            <td>89</td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>2306261135</td>
+            <td>Najma Aisyah Safira Wiryanto</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>85</td>
+            <td>85</td>
+            <td>85</td>
+            <td>94</td>
+            <td>96</td>
+            <td>89</td>
+            <td>94</td>
+            <td>89.72</td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <td>2306261160</td>
+            <td>Mukhlisi Nalahuddin</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>79</td>
+            <td>90</td>
+            <td>87</td>
+            <td>94</td>
+            <td>96</td>
+            <td>89</td>
+            <td>94</td>
+            <td>89.86</td>
+        </tr>
+        <tr>
+            <td>32</td>
+            <td>2306261186</td>
+            <td>Muhammad Reza Surya Darma</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>83</td>
+            <td>85</td>
+            <td>85</td>
+            <td>94</td>
+            <td>96</td>
+            <td>89</td>
+            <td>94</td>
+            <td>89.43</td>
+        </tr>
+        <tr>
+            <td>33</td>
+            <td>2306261236</td>
+            <td>Barra Ilham Mafaza</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>80</td>
+            <td>91</td>
+            <td>83</td>
+            <td>94</td>
+            <td>96</td>
+            <td>89</td>
+            <td>94</td>
+            <td>89.58</td>
+        </tr>
+        <tr>
+            <td>34</td>
+            <td>2306261311</td>
+            <td>Muhammad Nurul Kresnawidjati</td>
+            <td>2023</td>
+            <td>Matematika</td>
+            <td>Not Published</td>
+            <td>Not Published</td>
+            <td>81</td>
+            <td>82</td>
+            <td>86</td>
+            <td>94</td>
+            <td>96</td>
+            <td>89</td>
+            <td>94</td>
+            <td>88.86</td>
+        </tr>
+    </tbody>
+</table>
+</body>
+</html>
+
   <h3>Sains Data (B) : Kelas Bu Devvi</h3>
     <html lang="en">
 <head>
@@ -334,6 +958,8 @@ theory.</li>
                 <th>Name</th>
                 <th>Angkatan</th>
                 <th>Program Studi</th>
+                <th>UTS</th>
+                <th>UAS</th>
                 <th>Tugas 1</th>
                 <th>Tugas 2</th>
                 <th>Tugas 3</th>
@@ -348,6 +974,8 @@ theory.</li>
                 <td>Naufal Rizky Ramadhan</td>
                 <td>2021</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>0</td>
                 <td>95</td>
                 <td>92</td>
@@ -357,9 +985,11 @@ theory.</li>
             <tr>
                 <td>2</td>
                 <td>2106722682</td>
-                <td>Michael Cristo Siroit</td>
+                <td>Michael Cristo Sirait</td>
                 <td>2021</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>90</td>
                 <td>93</td>
                 <td>95</td>
@@ -372,6 +1002,8 @@ theory.</li>
                 <td>Muhammad Fakhri Ruslan</td>
                 <td>2022</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>97</td>
                 <td>94</td>
                 <td>97</td>
@@ -384,6 +1016,8 @@ theory.</li>
                 <td>Bryan Jonathan</td>
                 <td>2022</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>94</td>
                 <td>94</td>
                 <td>97</td>
@@ -392,10 +1026,12 @@ theory.</li>
             </tr>
             <tr>
                 <td>5</td>
-                <td>2206826046</td>
+                <td>2206828046</td>
                 <td>Matthew Abigail Pasaribu</td>
                 <td>2022</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>94</td>
                 <td>93</td>
                 <td>95</td>
@@ -408,6 +1044,8 @@ theory.</li>
                 <td>Khadijah Nurul Izzah</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>90</td>
                 <td>96</td>
                 <td>93</td>
@@ -420,6 +1058,8 @@ theory.</li>
                 <td>Muhammad Faris Naufaldi</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>86</td>
                 <td>94</td>
                 <td>92</td>
@@ -432,6 +1072,8 @@ theory.</li>
                 <td>Muhammad Luhur Alfajri</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>93</td>
                 <td>93</td>
                 <td>98</td>
@@ -441,9 +1083,11 @@ theory.</li>
             <tr>
                 <td>9</td>
                 <td>2306153912</td>
-                <td>Ilona Kalista Stil Dewinta</td>
+                <td>Ilona Kalista Siti Dewinta</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>95</td>
                 <td>98</td>
                 <td>98</td>
@@ -456,6 +1100,8 @@ theory.</li>
                 <td>Michelle Angeline Satyo</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>94</td>
                 <td>91</td>
                 <td>93</td>
@@ -465,9 +1111,11 @@ theory.</li>
             <tr>
                 <td>11</td>
                 <td>2306153995</td>
-                <td>Revo Dainer Chiantai</td>
+                <td>Revo Dainer Chiantal</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>85</td>
                 <td>93</td>
                 <td>95</td>
@@ -480,6 +1128,8 @@ theory.</li>
                 <td>Natalius Desta Riyanto</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>92</td>
                 <td>94</td>
                 <td>97</td>
@@ -492,6 +1142,8 @@ theory.</li>
                 <td>Muhamad Erik Setiawan</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>97</td>
                 <td>98</td>
                 <td>98</td>
@@ -504,6 +1156,8 @@ theory.</li>
                 <td>Ryan Faiz</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>0</td>
                 <td>93</td>
                 <td>94</td>
@@ -516,6 +1170,8 @@ theory.</li>
                 <td>Kamila Edwine Martani</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>98</td>
                 <td>93</td>
                 <td>97</td>
@@ -528,6 +1184,8 @@ theory.</li>
                 <td>Argama Vanesa Nauli Sijabat</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>90</td>
                 <td>95</td>
                 <td>98</td>
@@ -540,6 +1198,8 @@ theory.</li>
                 <td>Subhan Irsyaduddien Alhaq</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>76</td>
                 <td>96</td>
                 <td>93</td>
@@ -552,6 +1212,8 @@ theory.</li>
                 <td>Alvin Leonardo</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>85</td>
                 <td>93</td>
                 <td>95</td>
@@ -564,6 +1226,8 @@ theory.</li>
                 <td>Irfan Hanif Yamashita</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>87</td>
                 <td>94</td>
                 <td>92</td>
@@ -573,9 +1237,11 @@ theory.</li>
             <tr>
                 <td>20</td>
                 <td>2306231832</td>
-                <td>Florentina Sephina Situmecang</td>
+                <td>Florentina Sephina Situmeang</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>93</td>
                 <td>96</td>
                 <td>95</td>
@@ -588,6 +1254,8 @@ theory.</li>
                 <td>Irfi Aulia</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>96</td>
                 <td>95</td>
                 <td>95</td>
@@ -597,9 +1265,11 @@ theory.</li>
             <tr>
                 <td>22</td>
                 <td>2306238460</td>
-                <td>Bannu Yusaffa Nattalliah</td>
+                <td>Bannu Yusaffa N'attaillah</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>88</td>
                 <td>90</td>
                 <td>94</td>
@@ -609,9 +1279,11 @@ theory.</li>
             <tr>
                 <td>23</td>
                 <td>2306244021</td>
-                <td>Miliah Nafisch</td>
+                <td>Millah Nafisah</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>90</td>
                 <td>95</td>
                 <td>95</td>
@@ -624,6 +1296,8 @@ theory.</li>
                 <td>Dyah Reningtyas Wulandari</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>85</td>
                 <td>93</td>
                 <td>96</td>
@@ -636,6 +1310,8 @@ theory.</li>
                 <td>Lidya Auliyana</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>95</td>
                 <td>98</td>
                 <td>98</td>
@@ -648,6 +1324,8 @@ theory.</li>
                 <td>Alissa Shafwah Khairunnisa</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>96.5</td>
                 <td>93</td>
                 <td>95</td>
@@ -660,6 +1338,8 @@ theory.</li>
                 <td>Muhammad Fawwaz Syakir</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>92</td>
                 <td>90</td>
                 <td>94</td>
@@ -672,6 +1352,8 @@ theory.</li>
                 <td>Alika Nindita Azma</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>89</td>
                 <td>95</td>
                 <td>96</td>
@@ -684,6 +1366,8 @@ theory.</li>
                 <td>Kayla Musyaffa</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>97.5</td>
                 <td>96</td>
                 <td>95.5</td>
@@ -696,6 +1380,8 @@ theory.</li>
                 <td>Raditya Fauzan</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>94</td>
                 <td>94</td>
                 <td>98</td>
@@ -708,6 +1394,8 @@ theory.</li>
                 <td>Khaira Diena Azzahra</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>90</td>
                 <td>95</td>
                 <td>96</td>
@@ -720,6 +1408,8 @@ theory.</li>
                 <td>Benediktus Ariel Ali</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>0</td>
                 <td>0</td>
                 <td>95</td>
@@ -732,6 +1422,8 @@ theory.</li>
                 <td>A Nurhalizah Multazam Haidir</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>98</td>
                 <td>96</td>
                 <td>97</td>
@@ -744,6 +1436,8 @@ theory.</li>
                 <td>Eifa Nusuki Amada</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>93</td>
                 <td>96</td>
                 <td>95</td>
@@ -756,6 +1450,8 @@ theory.</li>
                 <td>Harnindyta Khairunnisa</td>
                 <td>2023</td>
                 <td>Matematika</td>
+                <td>Not Published</td>
+                <td>Not Published</td>
                 <td>95</td>
                 <td>96</td>
                 <td>95.5</td>
