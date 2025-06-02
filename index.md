@@ -924,7 +924,7 @@ theory.</li>
         </tr>
     </tbody>
 </table>
-* Not Published = Nilai sudah ada di tangan dosen
+* Not Published = Nilai sudah ada namun belum bisa dipublish
 </body>
 </html>
 
@@ -1460,6 +1460,7 @@ theory.</li>
             </tr>
         </tbody>
     </table>
+  * Not Published = Nilai sudah ada namun belum bisa dipublish
 </body>
 </html>
 <h2>Semester Reguler PTA 2025/26</h2>
