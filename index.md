@@ -323,8 +323,6 @@ theory.</li>
 </head>
 <body>
 
-<h2>Data Nilai Mahasiswa</h2>
-
 <table>
     <thead>
         <tr>
@@ -354,6 +352,7 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Not Published</td>
+            <td>93</td>
             <td>0</td>
             <td>88</td>
             <td>95</td>
