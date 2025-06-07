@@ -488,14 +488,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>90</td>
+            <td>93</td>
             <td>90</td>
             <td>92</td>
             <td>92</td>
             <td>93</td>
             <td>94</td>
             <td>93</td>
-            <td>92</td>
+            <td>92.43</td>
         </tr>
         <tr>
             <td>10</td>
@@ -692,14 +692,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>78</td>
+            <td>85</td>
             <td>0</td>
             <td>93</td>
             <td>95</td>
             <td>92</td>
             <td>94</td>
             <td>93</td>
-            <td>77.85</td>
+            <td>78.85</td>
         </tr>
         <tr>
             <td>22</td>
@@ -777,14 +777,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>82</td>
+            <td>95</td>
             <td>96</td>
             <td>95.5</td>
             <td>93</td>
             <td>92.5</td>
             <td>94</td>
             <td>93</td>
-            <td>92.28</td>
+            <td>94.14</td>
         </tr>
         <tr>
             <td>27</td>
@@ -811,14 +811,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>80</td>
+            <td>85</td>
             <td>92</td>
             <td>97</td>
             <td>93</td>
             <td>92.5</td>
             <td>94</td>
             <td>93</td>
-            <td>91.64</td>
+            <td>92.35</td>
         </tr>
         <tr>
             <td>29</td>
@@ -862,14 +862,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>79</td>
+            <td>82</td>
             <td>92</td>
             <td>94</td>
             <td>94</td>
             <td>96</td>
             <td>89</td>
             <td>94</td>
-            <td>91.14</td>
+            <td>91.57</td>
         </tr>
         <tr>
             <td>32</td>
