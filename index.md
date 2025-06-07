@@ -420,7 +420,7 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>94/5</td>
+            <td>94.5</td>
             <td>92</td>
             <td>94</td>
             <td>97</td>
