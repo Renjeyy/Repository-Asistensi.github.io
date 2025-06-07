@@ -354,12 +354,12 @@ theory.</li>
             <td>Empty</td>
             <td>93</td>
             <td>0</td>
-            <td>88</td>
+            <td>93</td>
             <td>95</td>
             <td>93</td>
             <td>94</td>
             <td>93</td>
-            <td>79.43</td>
+            <td>80.15</td>
         </tr>
         <tr>
             <td>2</td>
@@ -376,7 +376,7 @@ theory.</li>
             <td>93</td>
             <td>94</td>
             <td>93</td>
-            <td>94.144</td>
+            <td>94.15</td>
         </tr>
         <tr>
             <td>3</td>
@@ -387,13 +387,13 @@ theory.</li>
             <td>Not Published</td>
             <td>Empty</td>
             <td>0</td>
-            <td>89</td>
+            <td>95</td>
             <td>0</td>
             <td>95</td>
             <td>93</td>
             <td>94</td>
             <td>93</td>
-            <td>66.29</td>
+            <td>67.14</td>
         </tr>
         <tr>
             <td>4</td>
@@ -404,13 +404,13 @@ theory.</li>
             <td>Not Published</td>
             <td>Empty</td>
             <td>92</td>
-            <td>90</td>
-            <td>87</td>
+            <td>92</td>
+            <td>94</td>
             <td>95</td>
             <td>93</td>
             <td>94</td>
             <td>93</td>
-            <td>92</td>
+            <td>92.28</td>
         </tr>
         <tr>
             <td>5</td>
@@ -420,14 +420,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>90</td>
-            <td>90</td>
-            <td>87</td>
+            <td>94/5</td>
+            <td>92</td>
+            <td>94</td>
             <td>97</td>
             <td>95</td>
             <td>95</td>
             <td>94</td>
-            <td>92.57</td>
+            <td>94.5</td>
         </tr>
         <tr>
             <td>6</td>
@@ -437,14 +437,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>75</td>
+            <td>85</td>
             <td>92</td>
             <td>0</td>
             <td>97</td>
             <td>95</td>
             <td>95</td>
             <td>94</td>
-            <td>78.29</td>
+            <td>79.71</td>
         </tr>
         <tr>
             <td>7</td>
@@ -454,14 +454,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>84</td>
-            <td>85</td>
-            <td>85</td>
+            <td>90</td>
+            <td>93</td>
+            <td>92</td>
             <td>97</td>
             <td>95</td>
             <td>95</td>
             <td>94</td>
-            <td>90.71</td>
+            <td>93.71</td>
         </tr>
         <tr>
             <td>8</td>
@@ -471,14 +471,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>86</td>
+            <td>92</td>
             <td>93</td>
-            <td>88</td>
+            <td>94</td>
             <td>97</td>
             <td>95</td>
             <td>95</td>
             <td>94</td>
-            <td>92.57</td>
+            <td>94.28</td>
         </tr>
         <tr>
             <td>9</td>
@@ -488,14 +488,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>80</td>
-            <td>82</td>
-            <td>86</td>
+            <td>90</td>
+            <td>90</td>
+            <td>92</td>
             <td>92</td>
             <td>93</td>
             <td>94</td>
             <td>93</td>
-            <td>88.57</td>
+            <td>92</td>
         </tr>
         <tr>
             <td>10</td>
@@ -505,14 +505,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>85</td>
-            <td>82</td>
-            <td>86</td>
+            <td>95</td>
+            <td>90</td>
+            <td>92</td>
             <td>92</td>
             <td>93</td>
             <td>94</td>
             <td>92</td>
-            <td>89.14</td>
+            <td>92.57</td>
         </tr>
         <tr>
             <td>11</td>
@@ -522,14 +522,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>86</td>
-            <td>91</td>
-            <td>90</td>
+            <td>95</td>
+            <td>96</td>
+            <td>95.5</td>
             <td>92</td>
             <td>93</td>
             <td>94</td>
             <td>93</td>
-            <td>91.29</td>
+            <td>94.07</td>
         </tr>
         <tr>
             <td>12</td>
@@ -539,14 +539,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>87</td>
+            <td>92</td>
             <td>93</td>
-            <td>88</td>
+            <td>94</td>
             <td>92</td>
             <td>93</td>
             <td>94</td>
             <td>93</td>
-            <td>91.43</td>
+            <td>93</td>
         </tr>
         <tr>
             <td>13</td>
@@ -556,14 +556,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>77</td>
+            <td>87</td>
             <td>92</td>
             <td>9.7</td>
+            <td>94</td>
             <td>91</td>
-            <td>89</td>
-            <td>90</td>
+            <td>93</td>
             <td>92</td>
-            <td>77.25</td>
+            <td>79.81</td>
         </tr>
         <tr>
             <td>14</td>
@@ -573,14 +573,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>88</td>
-            <td>0</td>
-            <td>88</td>
-            <td>91</td>
-            <td>89</td>
-            <td>90</td>
             <td>92</td>
-            <td>76.86</td>
+            <td>0</td>
+            <td>93</td>
+            <td>94</td>
+            <td>91</td>
+            <td>93</td>
+            <td>92</td>
+            <td>79.28</td>
         </tr>
         <tr>
             <td>15</td>
@@ -590,14 +590,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>84</td>
             <td>91</td>
-            <td>83</td>
             <td>91</td>
-            <td>89</td>
-            <td>90</td>
+            <td>93</td>
+            <td>94</td>
+            <td>91</td>
+            <td>93</td>
             <td>92</td>
-            <td>88.57</td>
+            <td>92.14</td>
         </tr>
         <tr>
             <td>16</td>
@@ -607,14 +607,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>86</td>
+            <td>97</td>
+            <td>96</td>
+            <td>95.5</td>
+            <td>94</td>
             <td>91</td>
-            <td>90</td>
-            <td>91</td>
-            <td>89</td>
-            <td>90</td>
+            <td>93</td>
             <td>92</td>
-            <td>89.86</td>
+            <td>94.07</td>
         </tr>
         <tr>
             <td>17</td>
@@ -625,13 +625,13 @@ theory.</li>
             <td>Not Published</td>
             <td>Empty</td>
             <td>88</td>
-            <td>85</td>
-            <td>85</td>
+            <td>93</td>
+            <td>92</td>
             <td>92</td>
             <td>47.5</td>
             <td>93</td>
             <td>96</td>
-            <td>83.79</td>
+            <td>85.92</td>
         </tr>
         <tr>
             <td>18</td>
@@ -643,12 +643,12 @@ theory.</li>
             <td>Empty</td>
             <td>83</td>
             <td>0</td>
-            <td>88</td>
+            <td>93</td>
             <td>92</td>
             <td>47.5</td>
             <td>93</td>
             <td>96</td>
-            <td>71.36</td>
+            <td>72.07</td>
         </tr>
         <tr>
             <td>19</td>
@@ -658,14 +658,14 @@ theory.</li>
             <td>Matematika</td>
             <td>Not Published</td>
             <td>Empty</td>
-            <td>83</td>
+            <td>92</td>
             <td>93</td>
-            <td>88</td>
+            <td>94</td>
             <td>92</td>
             <td>47.5</td>
             <td>93</td>
             <td>96</td>
-            <td>84.64</td>
+            <td>86.78</td>
         </tr>
         <tr>
             <td>20</td>
@@ -677,12 +677,12 @@ theory.</li>
             <td>Empty</td>
             <td>0</td>
             <td>93</td>
-            <td>88</td>
+            <td>94</td>
             <td>92</td>
             <td>47.5</td>
             <td>93</td>
             <td>96</td>
-            <td>72.79</td>
+            <td>73.64</td>
         </tr>
         <tr>
             <td>21</td>
@@ -694,12 +694,12 @@ theory.</li>
             <td>Empty</td>
             <td>78</td>
             <td>0</td>
-            <td>88</td>
-            <td>92</td>
-            <td>92</td>
-            <td>90</td>
             <td>93</td>
-            <td>76.57</td>
+            <td>95</td>
+            <td>92</td>
+            <td>94</td>
+            <td>93</td>
+            <td>77.85</td>
         </tr>
         <tr>
             <td>22</td>
@@ -711,12 +711,12 @@ theory.</li>
             <td>Empty</td>
             <td>83</td>
             <td>91</td>
-            <td>83</td>
-            <td>88</td>
-            <td>92</td>
-            <td>90</td>
             <td>93</td>
-            <td>88.57</td>
+            <td>95</td>
+            <td>92</td>
+            <td>94</td>
+            <td>93</td>
+            <td>91.57</td>
         </tr>
         <tr>
             <td>23</td>
@@ -728,12 +728,12 @@ theory.</li>
             <td>Empty</td>
             <td>86</td>
             <td>91</td>
-            <td>83</td>
-            <td>88</td>
-            <td>92</td>
-            <td>90</td>
             <td>93</td>
-            <td>89</td>
+            <td>95</td>
+            <td>92</td>
+            <td>94</td>
+            <td>93</td>
+            <td>92</td>
         </tr>
         <tr>
             <td>24</td>
@@ -744,13 +744,13 @@ theory.</li>
             <td>Not Published</td>
             <td>Empty</td>
             <td>80</td>
-            <td>90</td>
-            <td>87</td>
-            <td>88</td>
             <td>92</td>
-            <td>90</td>
+            <td>94</td>
+            <td>95</td>
+            <td>92</td>
+            <td>94</td>
             <td>93</td>
-            <td>88.58</td>
+            <td>91.41</td>
         </tr>
         <tr>
             <td>25</td>
@@ -761,13 +761,13 @@ theory.</li>
             <td>Not Published</td>
             <td>Empty</td>
             <td>83</td>
-            <td>91</td>
-            <td>90</td>
+            <td>96</td>
+            <td>95.5</td>
             <td>93</td>
-            <td>90</td>
+            <td>92.5</td>
             <td>94</td>
             <td>93</td>
-            <td>90.58</td>
+            <td>92.43</td>
         </tr>
         <tr>
             <td>26</td>
@@ -778,13 +778,13 @@ theory.</li>
             <td>Not Published</td>
             <td>Empty</td>
             <td>82</td>
-            <td>91</td>
-            <td>90</td>
+            <td>96</td>
+            <td>95.5</td>
             <td>93</td>
-            <td>90</td>
+            <td>92.5</td>
             <td>94</td>
             <td>93</td>
-            <td>90.43</td>
+            <td>92.28</td>
         </tr>
         <tr>
             <td>27</td>
@@ -798,10 +798,10 @@ theory.</li>
             <td>92</td>
             <td>97</td>
             <td>93</td>
-            <td>90</td>
+            <td>92.5</td>
             <td>94</td>
             <td>93</td>
-            <td>91.86</td>
+            <td>92.21</td>
         </tr>
         <tr>
             <td>28</td>
@@ -815,10 +815,10 @@ theory.</li>
             <td>92</td>
             <td>97</td>
             <td>93</td>
-            <td>90</td>
+            <td>92.5</td>
             <td>94</td>
             <td>93</td>
-            <td>91.29</td>
+            <td>91.64</td>
         </tr>
         <tr>
             <td>29</td>
@@ -829,13 +829,13 @@ theory.</li>
             <td>Not Published</td>
             <td>Empty</td>
             <td>85</td>
-            <td>82</td>
-            <td>86</td>
-            <td>93</td>
             <td>90</td>
+            <td>92</td>
+            <td>93</td>
+            <td>92.5</td>
             <td>94</td>
             <td>93</td>
-            <td>89</td>
+            <td>91.35</td>
         </tr>
         <tr>
             <td>30</td>
@@ -846,13 +846,13 @@ theory.</li>
             <td>Not Published</td>
             <td>Empty</td>
             <td>85</td>
-            <td>85</td>
-            <td>85</td>
+            <td>93</td>
+            <td>92</td>
             <td>94</td>
             <td>96</td>
             <td>89</td>
             <td>94</td>
-            <td>89.72</td>
+            <td>91.85</td>
         </tr>
         <tr>
             <td>31</td>
@@ -863,13 +863,13 @@ theory.</li>
             <td>Not Published</td>
             <td>Empty</td>
             <td>79</td>
-            <td>90</td>
-            <td>87</td>
+            <td>92</td>
+            <td>94</td>
             <td>94</td>
             <td>96</td>
             <td>89</td>
             <td>94</td>
-            <td>89.86</td>
+            <td>91.14</td>
         </tr>
         <tr>
             <td>32</td>
@@ -880,13 +880,13 @@ theory.</li>
             <td>Not Published</td>
             <td>Empty</td>
             <td>83</td>
-            <td>85</td>
-            <td>85</td>
+            <td>93</td>
+            <td>92</td>
             <td>94</td>
             <td>96</td>
             <td>89</td>
             <td>94</td>
-            <td>89.43</td>
+            <td>91.57</td>
         </tr>
         <tr>
             <td>33</td>
@@ -898,12 +898,12 @@ theory.</li>
             <td>Empty</td>
             <td>80</td>
             <td>91</td>
-            <td>83</td>
+            <td>93</td>
             <td>94</td>
             <td>96</td>
             <td>89</td>
             <td>94</td>
-            <td>89.58</td>
+            <td>91</td>
         </tr>
         <tr>
             <td>34</td>
@@ -914,13 +914,13 @@ theory.</li>
             <td>Not Published</td>
             <td>Empty</td>
             <td>81</td>
-            <td>82</td>
-            <td>86</td>
+            <td>90</td>
+            <td>92</td>
             <td>94</td>
             <td>96</td>
             <td>89</td>
             <td>94</td>
-            <td>88.86</td>
+            <td>90.85</td>
         </tr>
     </tbody>
 </table>
