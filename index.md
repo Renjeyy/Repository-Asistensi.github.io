@@ -111,72 +111,22 @@
 <div id="nilai tugas" class="section">
 <h2>Semester Reguler ATA 2024/25</h2>
 
-
 <label for="kelasSelect">Pilih Kelas:</label>
-<select id="kelasSelect">
+<select id="kelasSelect" onchange="redirectToClass()">
   <option value="">-- Pilih Kelas --</option>
-  <option value="docs/Saindat-Kelas-A.json">Sains Data (A) : Kelas Bu Bevina</option>
-  <option value="docs/Saindat-Kelas-B.json">Sains Data (B) : Kelas Bu Devvi</option>
+  <option value="Saindat-Kelas-A.html">Sains Data (A) : Kelas Bu Bevina</option>
+  <option value="Saindat-Kelas-B.html">Sains Data (B) : Kelas Bu Devvi</option>
 </select>
 
-<div id="npmInputSection" style="display:none; margin-top: 15px;">
-  <label for="npmInput">Masukkan NPM:</label>
-  <input type="text" id="npmInput" placeholder="Contoh: 1906352041">
-  <button onclick="cariData()">Cek Nilai</button>
-</div>
-
-<div id="hasilPencarian" style="margin-top: 20px;"></div>
-
 <script>
-  let selectedKelas = "";
-
-  document.getElementById("kelasSelect").addEventListener("change", function() {
-    selectedKelas = this.value;
-    document.getElementById("npmInputSection").style.display = selectedKelas ? "block" : "none";
-    document.getElementById("hasilPencarian").innerHTML = "";
-  });
-
-  function cariData() {
-    const npm = document.getElementById("npmInput").value.trim();
-    if (!selectedKelas || !npm) {
-      alert("Mohon pilih kelas dan masukkan NPM.");
-      return;
+  function redirectToClass() {
+    var selectedPage = document.getElementById("kelasSelect").value;
+    if (selectedPage) {
+      window.location.href = selectedPage;
     }
-
-    fetch(selectedKelas)
-      .then(response => response.json())
-      .then(data => {
-        const mhs = data.find(d => d.npm === npm);
-        if (mhs) {
-          // Buat baris tugas dinamis
-          let tugasHTML = "";
-          for (let i = 1; i <= 7; i++) {
-            const key = `tugas${i}`;
-            if (mhs[key] !== undefined) {
-              tugasHTML += `<tr><th>Tugas ${i}</th><td>${mhs[key]}</td></tr>`;
-            }
-          }
-
-          document.getElementById("hasilPencarian").innerHTML = `
-            <h3>Hasil Pencarian</h3>
-            <table border="1" style="border-collapse: collapse;">
-              <tr><th>Nama</th><td>${mhs.nama}</td></tr>
-              <tr><th>Angkatan</th><td>${mhs.angkatan}</td></tr>
-              <tr><th>Program Studi</th><td>${mhs.prodi}</td></tr>
-              <tr><th>UTS</th><td>${mhs.uts}</td></tr>
-              <tr><th>UAS</th><td>${mhs.uas}</td></tr>
-              ${tugasHTML}
-            </table>
-          `;
-        } else {
-          document.getElementById("hasilPencarian").innerHTML = `<p style="color: red;">Data dengan NPM ${npm} tidak ditemukan.</p>`;
-        }
-      })
-      .catch(err => {
-        document.getElementById("hasilPencarian").innerHTML = `<p style="color: red;">Gagal memuat data kelas. Pastikan file tersedia.</p>`;
-      });
   }
 </script>
+
 </div>
 
 <div id="nilai tugas 2" class="section">
