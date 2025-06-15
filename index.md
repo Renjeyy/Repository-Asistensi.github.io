@@ -110,6 +110,23 @@
 
 <div id="nilai tugas" class="section">
 <h2>Semester Reguler ATA 2024/25</h2>
+
+<label for="kelasSelect">Pilih Kelas:</label>
+<select id="kelasSelect" onchange="redirectToClass()">
+  <option value="">-- Pilih Kelas --</option>
+  <option value="kelas-a.html">Sains Data (A) : Kelas Bu Bevina</option>
+  <option value="kelas-b.html">Sains Data (B) : Kelas Bu Devvi</option>
+</select>
+
+<script>
+  function redirectToClass() {
+    var selectedPage = document.getElementById("kelasSelect").value;
+    if (selectedPage) {
+      window.location.href = selectedPage;
+    }
+  }
+</script>
+
   <h3>Sains Data (A) : Kelas Bu Bevina</h3>
 <html lang="id">
 <head>
