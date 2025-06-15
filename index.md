@@ -142,3 +142,6 @@ function showSection(sectionId) {
   document.getElementById(sectionId).classList.add('active');
 }
 </script>
+</div>
+
+<div id="nilai tugas" class="section">
