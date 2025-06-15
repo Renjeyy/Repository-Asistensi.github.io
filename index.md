@@ -6,6 +6,9 @@
   padding: 10px;
   margin-bottom: 20px;
   flex-wrap: wrap;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 .navbar a {
   margin: 8px 15px;
@@ -19,9 +22,13 @@
 }
 .section {
   display: none;
+  padding: 20px;
 }
 .section.active {
   display: block;
+}
+.content-container {
+  margin-top: 20px;
 }
 </style>
 
