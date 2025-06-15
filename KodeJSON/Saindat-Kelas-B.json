@@ -1,1 +1,567 @@
+{
+  "class_name": "Kelas Bu Devvi",
+  "students": [
+    {
+      "no": 1,
+      "npm": "2106705625",
+      "name": "Naufal Rizky Ramadhan",
+      "angkatan": 2021,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 0,
+        "tugas_2": 95,
+        "tugas_3": 92,
+        "tugas_4": 96
+      },
+      "rata_rata_tugas": 70.75
+    },
+    {
+      "no": 2,
+      "npm": "2106722682",
+      "name": "Michael Cristo Sirait",
+      "angkatan": 2021,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 90,
+        "tugas_2": 93,
+        "tugas_3": 95,
+        "tugas_4": 94
+      },
+      "rata_rata_tugas": 93
+    },
+    {
+      "no": 3,
+      "npm": "2206029935",
+      "name": "Muhammad Fakhri Ruslan",
+      "angkatan": 2022,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 97,
+        "tugas_2": 94,
+        "tugas_3": 97,
+        "tugas_4": 95
+      },
+      "rata_rata_tugas": 95.75
+    },
+    {
+      "no": 4,
+      "npm": "2206052780",
+      "name": "Bryan Jonathan",
+      "angkatan": 2022,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 94,
+        "tugas_2": 94,
+        "tugas_3": 97,
+        "tugas_4": 95
+      },
+      "rata_rata_tugas": 95
+    },
+    {
+      "no": 5,
+      "npm": "2206828046",
+      "name": "Matthew Abigail Pasaribu",
+      "angkatan": 2022,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 94,
+        "tugas_2": 93,
+        "tugas_3": 95,
+        "tugas_4": 94
+      },
+      "rata_rata_tugas": 94
+    },
+    {
+      "no": 6,
+      "npm": "2306153805",
+      "name": "Khadijah Nurul Izzah",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 90,
+        "tugas_2": 96,
+        "tugas_3": 93,
+        "tugas_4": 95
+      },
+      "rata_rata_tugas": 93.5
+    },
+    {
+      "no": 7,
+      "npm": "2306153843",
+      "name": "Muhammad Faris Naufaldi",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 86,
+        "tugas_2": 94,
+        "tugas_3": 92,
+        "tugas_4": 96
+      },
+      "rata_rata_tugas": 92
+    },
+    {
+      "no": 8,
+      "npm": "2306153856",
+      "name": "Muhammad Luhur Alfajri",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 93,
+        "tugas_2": 93,
+        "tugas_3": 98,
+        "tugas_4": 92
+      },
+      "rata_rata_tugas": 94
+    },
+    {
+      "no": 9,
+      "npm": "2306153912",
+      "name": "Ilona Kalista Siti Dewinta",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 95,
+        "tugas_2": 98,
+        "tugas_3": 98,
+        "tugas_4": 95
+      },
+      "rata_rata_tugas": 96.5
+    },
+    {
+      "no": 10,
+      "npm": "2306153976",
+      "name": "Michelle Angeline Satyo",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 94,
+        "tugas_2": 91,
+        "tugas_3": 93,
+        "tugas_4": 95
+      },
+      "rata_rata_tugas": 93.25
+    },
+    {
+      "no": 11,
+      "npm": "2306153995",
+      "name": "Revo Dainer Chiantal",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 85,
+        "tugas_2": 93,
+        "tugas_3": 95,
+        "tugas_4": 93
+      },
+      "rata_rata_tugas": 91.5
+    },
+    {
+      "no": 12,
+      "npm": "2306202624",
+      "name": "Natalius Desta Riyanto",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 92,
+        "tugas_2": 94,
+        "tugas_3": 97,
+        "tugas_4": 95
+      },
+      "rata_rata_tugas": 94.5
+    },
+    {
+      "no": 13,
+      "npm": "2306203620",
+      "name": "Muhamad Erik Setiawan",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 97,
+        "tugas_2": 98,
+        "tugas_3": 98,
+        "tugas_4": 97
+      },
+      "rata_rata_tugas": 97.5
+    },
+    {
+      "no": 14,
+      "npm": "2306204516",
+      "name": "Ryan Faiz",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 0,
+        "tugas_2": 93,
+        "tugas_3": 94,
+        "tugas_4": 97
+      },
+      "rata_rata_tugas": 71
+    },
+    {
+      "no": 15,
+      "npm": "2306207530",
+      "name": "Kamila Edwine Martani",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 98,
+        "tugas_2": 93,
+        "tugas_3": 97,
+        "tugas_4": 94
+      },
+      "rata_rata_tugas": 95.5
+    },
+    {
+      "no": 16,
+      "npm": "2306207676",
+      "name": "Argama Vanesa Nauli Sijabat",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 90,
+        "tugas_2": 95,
+        "tugas_3": 98,
+        "tugas_4": 97
+      },
+      "rata_rata_tugas": 95
+    },
+    {
+      "no": 17,
+      "npm": "2306215564",
+      "name": "Subhan Irsyaduddien Alhaq",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 76,
+        "tugas_2": 96,
+        "tugas_3": 93,
+        "tugas_4": 95
+      },
+      "rata_rata_tugas": 90
+    },
+    {
+      "no": 18,
+      "npm": "2306216762",
+      "name": "Alvin Leonardo",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 85,
+        "tugas_2": 93,
+        "tugas_3": 95,
+        "tugas_4": 93
+      },
+      "rata_rata_tugas": 91.5
+    },
+    {
+      "no": 19,
+      "npm": "2306225943",
+      "name": "Irfan Hanif Yamashita",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 87,
+        "tugas_2": 94,
+        "tugas_3": 92,
+        "tugas_4": 96
+      },
+      "rata_rata_tugas": 92.25
+    },
+    {
+      "no": 20,
+      "npm": "2306231832",
+      "name": "Florentina Sephina Situmeang",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 93,
+        "tugas_2": 96,
+        "tugas_3": 95,
+        "tugas_4": 95
+      },
+      "rata_rata_tugas": 94.75
+    },
+    {
+      "no": 21,
+      "npm": "2306238454",
+      "name": "Irfi Aulia",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 96,
+        "tugas_2": 95,
+        "tugas_3": 95,
+        "tugas_4": 97
+      },
+      "rata_rata_tugas": 95.75
+    },
+    {
+      "no": 22,
+      "npm": "2306238460",
+      "name": "Bannu Yusaffa N'attaillah",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 88,
+        "tugas_2": 90,
+        "tugas_3": 94,
+        "tugas_4": 97
+      },
+      "rata_rata_tugas": 92.25
+    },
+    {
+      "no": 23,
+      "npm": "2306244021",
+      "name": "Millah Nafisah",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 90,
+        "tugas_2": 95,
+        "tugas_3": 95,
+        "tugas_4": 97
+      },
+      "rata_rata_tugas": 94.25
+    },
+    {
+      "no": 24,
+      "npm": "2306244040",
+      "name": "Dyah Reningtyas Wulandari",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 85,
+        "tugas_2": 93,
+        "tugas_3": 96,
+        "tugas_4": 94
+      },
+      "rata_rata_tugas": 92
+    },
+    {
+      "no": 25,
+      "npm": "2306244103",
+      "name": "Lidya Auliyana",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 95,
+        "tugas_2": 98,
+        "tugas_3": 98,
+        "tugas_4": 92
+      },
+      "rata_rata_tugas": 95.75
+    },
+    {
+      "no": 26,
+      "npm": "2306244116",
+      "name": "Alissa Shafwah Khairunnisa",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 96.5,
+        "tugas_2": 93,
+        "tugas_3": 95,
+        "tugas_4": 95
+      },
+      "rata_rata_tugas": 94.875
+    },
+    {
+      "no": 27,
+      "npm": "2306244141",
+      "name": "Muhammad Fawwaz Syakir",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 92,
+        "tugas_2": 90,
+        "tugas_3": 94,
+        "tugas_4": 97
+      },
+      "rata_rata_tugas": 93.25
+    },
+    {
+      "no": 28,
+      "npm": "2306244160",
+      "name": "Alika Nindita Azma",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 89,
+        "tugas_2": 95,
+        "tugas_3": 96,
+        "tugas_4": 94
+      },
+      "rata_rata_tugas": 93.5
+    },
+    {
+      "no": 29,
+      "npm": "2306244173",
+      "name": "Kayla Musyaffa",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 97.5,
+        "tugas_2": 96,
+        "tugas_3": 95.5,
+        "tugas_4": 95
+      },
+      "rata_rata_tugas": 96
+    },
+    {
+      "no": 30,
+      "npm": "2306244186",
+      "name": "Raditya Fauzan",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 94,
+        "tugas_2": 94,
+        "tugas_3": 98,
+        "tugas_4": 97
+      },
+      "rata_rata_tugas": 95.75
+    },
+    {
+      "no": 31,
+      "npm": "2306260611",
+      "name": "Khaira Diena Azzahra",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 90,
+        "tugas_2": 95,
+        "tugas_3": 96,
+        "tugas_4": 94
+      },
+      "rata_rata_tugas": 93.75
+    },
+    {
+      "no": 32,
+      "npm": "2306261192",
+      "name": "Benediktus Ariel Ali",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 0,
+        "tugas_2": 0,
+        "tugas_3": 95,
+        "tugas_4": 93
+      },
+      "rata_rata_tugas": 47
+    },
+    {
+      "no": 33,
+      "npm": "2306261210",
+      "name": "A Nurhalizah Multazam Haidir",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 98,
+        "tugas_2": 96,
+        "tugas_3": 97,
+        "tugas_4": 94
+      },
+      "rata_rata_tugas": 96.25
+    },
+    {
+      "no": 34,
+      "npm": "2306261255",
+      "name": "Eifa Nusuki Amada",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 93,
+        "tugas_2": 96,
+        "tugas_3": 95,
+        "tugas_4": 95
+      },
+      "rata_rata_tugas": 94.75
+    },
+    {
+      "no": 35,
+      "npm": "2306261280",
+      "name": "Harnindyta Khairunnisa",
+      "angkatan": 2023,
+      "program_studi": "Matematika",
+      "uts": "Not Published",
+      "uas": "Empty",
+      "tugas": {
+        "tugas_1": 95,
+        "tugas_2": 96,
+        "tugas_3": 95.5,
+        "tugas_4": 95
+      },
+      "rata_rata_tugas": 95.375
+    }
+  ],
+  "note": "* Not Published = Nilai sudah ada namun belum bisa dipublish"
+}
 
