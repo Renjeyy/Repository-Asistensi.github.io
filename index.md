@@ -133,6 +133,24 @@
   }
 </script>
 
+<h2>Semester Reguler PTA 2025/26</h2>
+
+<label for="kelasSelect">Pilih Kelas:</label>
+<select id="kelasSelect" onchange="redirectToClass()">
+  <option value="">-- Pilih Kelas --</option>
+  <option value="Saindat-Kelas-A.html">Sains Data (A) : Kelas Bu Bevina</option>
+  <option value="Saindat-Kelas-B.html">Sains Data (B) : Kelas Bu Devvi</option>
+</select>
+
+<script>
+  function redirectToClass() {
+    var selectedPage = document.getElementById("kelasSelect").value;
+    if (selectedPage) {
+      window.location.href = selectedPage;
+    }
+  }
+</script>
+
 </div>
 
 <div id="nilai tugas 2" class="section">
