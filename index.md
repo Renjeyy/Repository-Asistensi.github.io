@@ -126,12 +126,10 @@
     }
   }
 </script>
-
 </div>
 
 <div id="nilai tugas 2" class="section">
 <h2>TBD</h2>
-
 </div>
 
 
