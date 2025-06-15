@@ -138,8 +138,7 @@
 <label for="kelasSelect">Pilih Kelas:</label>
 <select id="kelasSelect" onchange="redirectToClass()">
   <option value="">-- Pilih Kelas --</option>
-  <option value="Saindat-Kelas-A.html">Sains Data (A) : Kelas Bu Bevina</option>
-  <option value="Saindat-Kelas-B.html">Sains Data (B) : Kelas Bu Devvi</option>
+  <option value="">TBD</option>
 </select>
 
 <script>
