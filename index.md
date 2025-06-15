@@ -115,8 +115,8 @@
 <label for="kelasSelect">Pilih Kelas:</label>
 <select id="kelasSelect">
   <option value="">-- Pilih Kelas --</option>
-  <option value="docs/KodeJSON/Saindat-Kelas-A.json">Sains Data (A) : Kelas Bu Bevina</option>
-  <option value="docs/KodeJSON/Saindat-Kelas-B.json">Sains Data (B) : Kelas Bu Devvi</option>
+  <option value="Saindat-Kelas-A.json">Sains Data (A) : Kelas Bu Bevina</option>
+  <option value="Saindat-Kelas-B.json">Sains Data (B) : Kelas Bu Devvi</option>
 </select>
 
 <div id="npmInputSection" style="display:none; margin-top: 15px;">
