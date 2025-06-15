@@ -127,21 +127,21 @@
   }
 </script>
 
-</div>
-
 <div id="nilai tugas 2" class="section">
-<h2>TBD</h2>
-</div>
+<h2>Semester Reguler PTA 2024/25</h2>
 
+<label for="kelasSelect">Pilih Kelas:</label>
+<select id="kelasSelect" onchange="redirectToClass()">
+  <option value="">-- Pilih Kelas --</option>
+  <option value="Saindat-Kelas-A.html">Sains Data (A) : Kelas Bu Bevina</option>
+  <option value="Saindat-Kelas-B.html">Sains Data (B) : Kelas Bu Devvi</option>
+</select>
 
 <script>
-function showSection(sectionId) {
-  document.querySelectorAll('.section').forEach(sec => {
-    sec.classList.remove('active');
-  });
-  document.getElementById(sectionId).classList.add('active');
-}
+  function redirectToClass() {
+    var selectedPage = document.getElementById("kelasSelect").value;
+    if (selectedPage) {
+      window.location.href = selectedPage;
+    }
+  }
 </script>
-</div>
-
-<div id="nilai tugas" class="section">
