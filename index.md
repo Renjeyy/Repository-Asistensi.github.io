@@ -27,7 +27,6 @@
 
 <div class="navbar">
   <a onclick="showSection('soal')">Soal Responsi</a>
-  <a onclick="showSection('teaching')">Teaching</a>
   <a onclick="showSection('nilai tugas')">Nilai Tugas ATA 2024/25</a>
   <a onclick="showSection('nilai tugas 2')">Nilai Tugas PTA 2025/26</a>
 </div>
@@ -1275,6 +1274,10 @@
 </div>
 
 <div id="nilai tugas 2" class="section">
+<h2>TBD</h2>
+
+</div>
+
 
 <script>
 function showSection(sectionId) {
