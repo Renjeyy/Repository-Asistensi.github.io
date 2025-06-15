@@ -111,11 +111,12 @@
 <div id="nilai tugas" class="section">
 <h2>Semester Reguler ATA 2024/25</h2>
 
+
 <label for="kelasSelect">Pilih Kelas:</label>
 <select id="kelasSelect">
   <option value="">-- Pilih Kelas --</option>
   <option value="KodeJSON/Saindat-Kelas-A.json">Sains Data (A) : Kelas Bu Bevina</option>
-  <option value="KodeJSON/Saindat-Kelas-B.json">Sains Data (B) : Kelas Bu Devvi</option>
+  <option value="KodeJSON/Saindat-Kelas-A.json">Sains Data (B) : Kelas Bu Devvi</option>
 </select>
 
 <div id="npmInputSection" style="display:none; margin-top: 15px;">
@@ -147,6 +148,15 @@
       .then(data => {
         const mhs = data.find(d => d.npm === npm);
         if (mhs) {
+          // Buat baris tugas dinamis
+          let tugasHTML = "";
+          for (let i = 1; i <= 7; i++) {
+            const key = `tugas${i}`;
+            if (mhs[key] !== undefined) {
+              tugasHTML += `<tr><th>Tugas ${i}</th><td>${mhs[key]}</td></tr>`;
+            }
+          }
+
           document.getElementById("hasilPencarian").innerHTML = `
             <h3>Hasil Pencarian</h3>
             <table border="1" style="border-collapse: collapse;">
@@ -155,13 +165,7 @@
               <tr><th>Program Studi</th><td>${mhs.prodi}</td></tr>
               <tr><th>UTS</th><td>${mhs.uts}</td></tr>
               <tr><th>UAS</th><td>${mhs.uas}</td></tr>
-              <tr><th>Tugas 1</th><td>${mhs.tugas1}</td></tr>
-              <tr><th>Tugas 2</th><td>${mhs.tugas2}</td></tr>
-              <tr><th>Tugas 3</th><td>${mhs.tugas3}</td></tr>
-              <tr><th>Tugas 4</th><td>${mhs.tugas4}</td></tr>
-              <tr><th>Tugas 5</th><td>${mhs.tugas5}</td></tr>
-              <tr><th>Tugas 6</th><td>${mhs.tugas6}</td></tr>
-              <tr><th>Tugas 7</th><td>${mhs.tugas7}</td></tr>
+              ${tugasHTML}
             </table>
           `;
         } else {
