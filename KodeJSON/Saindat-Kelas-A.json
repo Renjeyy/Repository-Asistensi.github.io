@@ -1,1 +1,720 @@
-
+{
+  "kelas": "Sains Data (A) : Kelas Bu Bevina",
+  "mahasiswa": [
+    {
+      "no": 1,
+      "npm": "1906352041",
+      "nama": "Rafli Ichsan Mahendra",
+      "angkatan": 2019,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 93,
+          "tugas_2": 0,
+          "tugas_3": 93,
+          "tugas_4": 95,
+          "tugas_5": 93,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 80.15
+      }
+    },
+    {
+      "no": 2,
+      "npm": "1906352060",
+      "nama": "Fakhri Perdana Tito Fareza",
+      "angkatan": 2019,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 95,
+          "tugas_2": 92,
+          "tugas_3": 97,
+          "tugas_4": 95,
+          "tugas_5": 93,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 94.15
+      }
+    },
+    {
+      "no": 3,
+      "npm": "1906352073",
+      "nama": "Ashley Matthew Yafeth Kainama",
+      "angkatan": 2019,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 0,
+          "tugas_2": 95,
+          "tugas_3": 0,
+          "tugas_4": 95,
+          "tugas_5": 93,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 67.14
+      }
+    },
+    {
+      "no": 4,
+      "npm": "2106852850",
+      "nama": "Haykal Jawaharial Ahmad",
+      "angkatan": 2021,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 92,
+          "tugas_2": 92,
+          "tugas_3": 94,
+          "tugas_4": 95,
+          "tugas_5": 93,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 92.28
+      }
+    },
+    {
+      "no": 5,
+      "npm": "2206039546",
+      "nama": "Teuku Kumayl Sojuangon Al Farizi",
+      "angkatan": 2022,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 94.5,
+          "tugas_2": 92,
+          "tugas_3": 94,
+          "tugas_4": 97,
+          "tugas_5": 95,
+          "tugas_6": 95,
+          "tugas_7": 94
+        },
+        "rata_tugas": 94.5
+      }
+    },
+    {
+      "no": 6,
+      "npm": "2306153824",
+      "nama": "Eka Susanti Oktavia Ramadhani",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 85,
+          "tugas_2": 92,
+          "tugas_3": 0,
+          "tugas_4": 97,
+          "tugas_5": 95,
+          "tugas_6": 95,
+          "tugas_7": 94
+        },
+        "rata_tugas": 79.71
+      }
+    },
+    {
+      "no": 7,
+      "npm": "2306153862",
+      "nama": "Jasmine Allycia Iskak",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 90,
+          "tugas_2": 93,
+          "tugas_3": 92,
+          "tugas_4": 97,
+          "tugas_5": 95,
+          "tugas_6": 95,
+          "tugas_7": 94
+        },
+        "rata_tugas": 93.71
+      }
+    },
+    {
+      "no": 8,
+      "npm": "2306153881",
+      "nama": "Maria Monica Yuniar Marpaung",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 92,
+          "tugas_2": 93,
+          "tugas_3": 94,
+          "tugas_4": 97,
+          "tugas_5": 95,
+          "tugas_6": 95,
+          "tugas_7": 94
+        },
+        "rata_tugas": 94.28
+      }
+    },
+    {
+      "no": 9,
+      "npm": "2306153925",
+      "nama": "Almaas Sulthonu Alandra",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 93,
+          "tugas_2": 90,
+          "tugas_3": 92,
+          "tugas_4": 92,
+          "tugas_5": 93,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 92.43
+      }
+    },
+    {
+      "no": 10,
+      "npm": "2306153931",
+      "nama": "Richard Gordon Hamonangan Sinurat",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 95,
+          "tugas_2": 90,
+          "tugas_3": 92,
+          "tugas_4": 92,
+          "tugas_5": 93,
+          "tugas_6": 94,
+          "tugas_7": 92
+        },
+        "rata_tugas": 92.57
+      }
+    },
+    {
+      "no": 11,
+      "npm": "2306153944",
+      "nama": "Vanya Alisha Zafira",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 95,
+          "tugas_2": 96,
+          "tugas_3": 95.5,
+          "tugas_4": 92,
+          "tugas_5": 93,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 94.07
+      }
+    },
+    {
+      "no": 12,
+      "npm": "2306153963",
+      "nama": "Najwa Fatimatul Zara",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 92,
+          "tugas_2": 93,
+          "tugas_3": 94,
+          "tugas_4": 92,
+          "tugas_5": 93,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 93
+      }
+    },
+    {
+      "no": 13,
+      "npm": "2306201400",
+      "nama": "Bosar Martua Sinaga",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 87,
+          "tugas_2": 92,
+          "tugas_3": 9.7,
+          "tugas_4": 94,
+          "tugas_5": 91,
+          "tugas_6": 93,
+          "tugas_7": 92
+        },
+        "rata_tugas": 79.81
+      }
+    },
+    {
+      "no": 14,
+      "npm": "2306209315",
+      "nama": "Jery Yosua Manulang",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 92,
+          "tugas_2": 0,
+          "tugas_3": 93,
+          "tugas_4": 94,
+          "tugas_5": 91,
+          "tugas_6": 93,
+          "tugas_7": 92
+        },
+        "rata_tugas": 79.28
+      }
+    },
+    {
+      "no": 15,
+      "npm": "2306210645",
+      "nama": "Muhammad Abyan Laksamana",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 91,
+          "tugas_2": 91,
+          "tugas_3": 93,
+          "tugas_4": 94,
+          "tugas_5": 91,
+          "tugas_6": 93,
+          "tugas_7": 92
+        },
+        "rata_tugas": 92.14
+      }
+    },
+    {
+      "no": 16,
+      "npm": "2306213911",
+      "nama": "Revina Fitria Lestari",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 97,
+          "tugas_2": 96,
+          "tugas_3": 95.5,
+          "tugas_4": 94,
+          "tugas_5": 91,
+          "tugas_6": 93,
+          "tugas_7": 92
+        },
+        "rata_tugas": 94.07
+      }
+    },
+    {
+      "no": 17,
+      "npm": "2306216623",
+      "nama": "Siti Nurul Fajriah",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 88,
+          "tugas_2": 93,
+          "tugas_3": 92,
+          "tugas_4": 92,
+          "tugas_5": 47.5,
+          "tugas_6": 93,
+          "tugas_7": 96
+        },
+        "rata_tugas": 85.92
+      }
+    },
+    {
+      "no": 18,
+      "npm": "2306217260",
+      "nama": "Muhammad Syam Firdaus",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 83,
+          "tugas_2": 0,
+          "tugas_3": 93,
+          "tugas_4": 92,
+          "tugas_5": 47.5,
+          "tugas_6": 93,
+          "tugas_7": 96
+        },
+        "rata_tugas": 72.07
+      }
+    },
+    {
+      "no": 19,
+      "npm": "2306220204",
+      "nama": "Salsabila Shafa Rentua",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 92,
+          "tugas_2": 93,
+          "tugas_3": 94,
+          "tugas_4": 92,
+          "tugas_5": 47.5,
+          "tugas_6": 93,
+          "tugas_7": 96
+        },
+        "rata_tugas": 86.78
+      }
+    },
+    {
+      "no": 20,
+      "npm": "2306221812",
+      "nama": "Rizka Zulaika",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 0,
+          "tugas_2": 93,
+          "tugas_3": 94,
+          "tugas_4": 92,
+          "tugas_5": 47.5,
+          "tugas_6": 93,
+          "tugas_7": 96
+        },
+        "rata_tugas": 73.64
+      }
+    },
+    {
+      "no": 21,
+      "npm": "2306225792",
+      "nama": "Dimas Prasetya Utama",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 85,
+          "tugas_2": 0,
+          "tugas_3": 93,
+          "tugas_4": 95,
+          "tugas_5": 92,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 78.85
+      }
+    },
+    {
+      "no": 22,
+      "npm": "2306230211",
+      "nama": "Athallah Akmal",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 83,
+          "tugas_2": 91,
+          "tugas_3": 93,
+          "tugas_4": 95,
+          "tugas_5": 92,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 91.57
+      }
+    },
+    {
+      "no": 23,
+      "npm": "2306231353",
+      "nama": "Muhammad Daffa",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 86,
+          "tugas_2": 91,
+          "tugas_3": 93,
+          "tugas_4": 95,
+          "tugas_5": 92,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 92
+      }
+    },
+    {
+      "no": 24,
+      "npm": "2306238435",
+      "nama": "Omar Alexander Putra",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 80,
+          "tugas_2": 92,
+          "tugas_3": 94,
+          "tugas_4": 95,
+          "tugas_5": 92,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 91.41
+      }
+    },
+    {
+      "no": 25,
+      "npm": "2306238473",
+      "nama": "Nayla Qadrina Sundoro",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 83,
+          "tugas_2": 96,
+          "tugas_3": 95.5,
+          "tugas_4": 93,
+          "tugas_5": 92.5,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 92.43
+      }
+    },
+    {
+      "no": 26,
+      "npm": "2306244066",
+      "nama": "Adinda Cahyani",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 95,
+          "tugas_2": 96,
+          "tugas_3": 95.5,
+          "tugas_4": 93,
+          "tugas_5": 92.5,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 94.14
+      }
+    },
+    {
+      "no": 27,
+      "npm": "2306244154",
+      "nama": "Rizal Hafiz Panjaitan",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 84,
+          "tugas_2": 92,
+          "tugas_3": 97,
+          "tugas_4": 93,
+          "tugas_5": 92.5,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 92.21
+      }
+    },
+    {
+      "no": 28,
+      "npm": "2306244192",
+      "nama": "Muhammad Fawwaz Shabri",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 85,
+          "tugas_2": 92,
+          "tugas_3": 97,
+          "tugas_4": 93,
+          "tugas_5": 92.5,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 92.35
+      }
+    },
+    {
+      "no": 29,
+      "npm": "2306260574",
+      "nama": "Muhammad Fadhilah Zahran",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 85,
+          "tugas_2": 90,
+          "tugas_3": 92,
+          "tugas_4": 93,
+          "tugas_5": 92.5,
+          "tugas_6": 94,
+          "tugas_7": 93
+        },
+        "rata_tugas": 91.35
+      }
+    },
+    {
+      "no": 30,
+      "npm": "2306261135",
+      "nama": "Najma Aisyah Safira Wiryanto",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 85,
+          "tugas_2": 93,
+          "tugas_3": 92,
+          "tugas_4": 94,
+          "tugas_5": 96,
+          "tugas_6": 89,
+          "tugas_7": 94
+        },
+        "rata_tugas": 91.85
+      }
+    },
+    {
+      "no": 31,
+      "npm": "2306261160",
+      "nama": "Mukhlisi Nalahuddin",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 82,
+          "tugas_2": 92,
+          "tugas_3": 94,
+          "tugas_4": 94,
+          "tugas_5": 96,
+          "tugas_6": 89,
+          "tugas_7": 94
+        },
+        "rata_tugas": 91.57
+      }
+    },
+    {
+      "no": 32,
+      "npm": "2306261186",
+      "nama": "Muhammad Reza Surya Darma",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 83,
+          "tugas_2": 93,
+          "tugas_3": 92,
+          "tugas_4": 94,
+          "tugas_5": 96,
+          "tugas_6": 89,
+          "tugas_7": 94
+        },
+        "rata_tugas": 91.57
+      }
+    },
+    {
+      "no": 33,
+      "npm": "2306261236",
+      "nama": "Barra Ilham Mafaza",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 80,
+          "tugas_2": 91,
+          "tugas_3": 93,
+          "tugas_4": 94,
+          "tugas_5": 96,
+          "tugas_6": 89,
+          "tugas_7": 94
+        },
+        "rata_tugas": 91
+      }
+    },
+    {
+      "no": 34,
+      "npm": "2306261311",
+      "nama": "Muhammad Nurul Kresnawidjati",
+      "angkatan": 2023,
+      "prodi": "Matematika",
+      "nilai": {
+        "uts": "Not Published",
+        "uas": "Empty",
+        "tugas": {
+          "tugas_1": 81,
+          "tugas_2": 90,
+          "tugas_3": 92,
+          "tugas_4": 94,
+          "tugas_5": 96,
+          "tugas_6": 89,
+          "tugas_7": 94
+        },
+        "rata_tugas": 90.85
+      }
+    }
+  ],
+  "catatan": "* Not Published = Nilai sudah ada namun belum bisa dipublish"
+}
