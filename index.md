@@ -27,8 +27,7 @@
 
 <div class="navbar">
   <a onclick="showSection('soal')">Soal Responsi</a>
-  <a onclick="showSection('nilai tugas')">Nilai Tugas ATA 2024/25</a>
-  <a onclick="showSection('nilai tugas 2')">Nilai Tugas PTA 2025/26</a>
+  <a onclick="showSection('nilai tugas')">Nilai Tugas</a>
 </div>
 
 <!-- Soal Responsi Section -->
