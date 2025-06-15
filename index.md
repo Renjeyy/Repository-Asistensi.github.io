@@ -27,8 +27,7 @@
 
 <div class="navbar">
   <a onclick="showSection('soal')">Soal Responsi</a>
-  <a onclick="showSection('nilai tugas')">Nilai Tugas ATA 2024/25</a>
-  <a onclick="showSection('nilai tugas 2')">Nilai Tugas PTA 2025/26</a>
+  <a onclick="showSection('nilai tugas')">Nilai Tugas</a>
 </div>
 
 <!-- Soal Responsi Section -->
@@ -111,34 +110,103 @@
 <div id="nilai tugas" class="section">
 <h2>Semester Reguler ATA 2024/25</h2>
 
-<label for="kelasSelect">Pilih Kelas:</label>
-<select id="kelasSelect" onchange="redirectToClass()">
-  <option value="">-- Pilih Kelas --</option>
-  <option value="Saindat-Kelas-A.html">Sains Data (A) : Kelas Bu Bevina</option>
-  <option value="Saindat-Kelas-B.html">Sains Data (B) : Kelas Bu Devvi</option>
-</select>
+<div id="classSelectionSection">
+    <label for="kclasscheck">Pilih Kelas:</label>
+    <select id="kclasscheck">
+        <option value="">-- Pilih Kelas --</option>
+        <option value="Saindata-kelas-A.json">Sains Data (A) : Kelas Bu Bevina</option>
+        <option value="Saindata-kelas-B.json">Sains Data (B) : Kelas Bu Bevina</option>
+    </select>
+</div>
+
+<div id="npmInputSection" style="display:none; margin-top: 15px;">
+    <label for="npmInput">Masukkan NPM:</label>
+    <input type="text" id="npmInput" placeholder="Contoh: 1086352841">
+    <button onclick="checkNPM()">Cari Nilai</button>
+</div>
+
+<div id="resultContainer" style="margin-top: 20px;"></div>
 
 <script>
-  function redirectToClass() {
-    var selectedPage = document.getElementById("kelasSelect").value;
-    if (selectedPage) {
-      window.location.href = selectedPage;
+    let selectedClass = "";
+    
+    document.getElementById("kclasscheck").addEventListener("change", function() {
+        selectedClass = this.value;
+        document.getElementById("npmInputSection").style.display = selectedClass ? "block" : "none";
+        document.getElementById("resultContainer").innerHTML = "";
+    });
+
+    function checkNPM() {
+        const npm = document.getElementById("npmInput").value.trim();
+        
+        if (!selectedClass) {
+            alert("Silakan pilih kelas terlebih dahulu.");
+            return;
+        }
+        
+        if (!npm) {
+            alert("Silakan masukkan NPM Anda.");
+            return;
+        }
+
+        // Load the JSON file for the selected class
+        fetch(selectedClass)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('File tidak ditemukan');
+                }
+                return response.json();
+            })
+            .then(data => {
+                displayStudentData(data, npm);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById("resultContainer").innerHTML = 
+                    `<p style="color:red;">Error: ${error.message}</p>`;
+            });
     }
-  }
-</script>
 
-</div>
-
-<div id="nilai tugas 2" class="section">
-<h2>TBD</h2>
-</div>
-
-
-<script>
-function showSection(sectionId) {
-  document.querySelectorAll('.section').forEach(sec => {
-    sec.classList.remove('active');
-  });
-  document.getElementById(sectionId).classList.add('active');
-}
+    function displayStudentData(classData, npm) {
+        const resultContainer = document.getElementById("resultContainer");
+        resultContainer.innerHTML = "";
+        
+        // Find student with matching NPM
+        const student = classData.find(s => s.npm === npm);
+        
+        if (student) {
+            // Display student data
+            let html = `
+                <div style="border:1px solid #ddd; padding:15px; border-radius:5px;">
+                    <h3>Nilai Tugas - ${student.nama}</h3>
+                    <p><strong>NPM:</strong> ${student.npm}</p>
+                    <p><strong>Kelas:</strong> ${student.kelas}</p>
+                    <table style="width:100%; border-collapse:collapse; margin-top:10px;">
+                        <tr style="background-color:#f2f2f2;">
+                            <th style="padding:8px; border:1px solid #ddd;">Tugas</th>
+                            <th style="padding:8px; border:1px solid #ddd;">Nilai</th>
+                        </tr>
+            `;
+            
+            // Add each assignment score
+            for (const [assignment, score] of Object.entries(student.nilai)) {
+                html += `
+                    <tr>
+                        <td style="padding:8px; border:1px solid #ddd;">${assignment}</td>
+                        <td style="padding:8px; border:1px solid #ddd;">${score}</td>
+                    </tr>
+                `;
+            }
+            
+            html += `
+                    </table>
+                </div>
+            `;
+            
+            resultContainer.innerHTML = html;
+        } else {
+            resultContainer.innerHTML = 
+                `<p style="color:red;">Mahasiswa dengan NPM ${npm} tidak ditemukan dalam kelas ini.</p>`;
+        }
+    }
 </script>
