@@ -127,6 +127,8 @@
   }
 </script>
 
+</div>
+
 <div id="nilai tugas 2" class="section">
 <h2>Semester Reguler PTA 2024/25</h2>
 
