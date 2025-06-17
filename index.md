@@ -144,7 +144,7 @@
       <td>Sains Data (A)</td>
       <td>Dra. Bevina Desjwiandra Handari, M.Si., Ph.D.</td>
       <td>Published</td>
-      <td><a href="Saindat-Kelas-B.html">detail</a></td>
+      <td><a href="Saindat-Kelas-A.html">detail</a></td>
     </tr>
     <tr>
       <td>2.</td>
