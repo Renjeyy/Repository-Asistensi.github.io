@@ -155,7 +155,8 @@
 <ul>
     <li><strong>Empty</strong> artinya nilai tersebut belum dikoreksi</li>
     <li><strong>Not published</strong> artinya nilai tersebut sudah ada tetapi belum dipublikasikan di web</li>
-    <li><strong>Published</strong> artinya nilai tersebut sudah dipublikasikan di web</li>
+    <li><strong>Published (Tugas x)</strong> artinya nilai tugas x sudah dipublikasikan di web</li>
+    <li><strong>Published</strong> artinya semua nilai tugas sudah dipublikasikan di web</li>
 </ul>
 
 <h2>Semester Pendek 2024/25</h2>
@@ -194,6 +195,12 @@
     </tr>
   </tbody>
 </table>
+<ul>
+    <li><strong>Empty</strong> artinya nilai tersebut belum dikoreksi</li>
+    <li><strong>Not published</strong> artinya nilai tersebut sudah ada tetapi belum dipublikasikan di web</li>
+    <li><strong>Published (Tugas x)</strong> artinya nilai tugas x sudah dipublikasikan di web</li>
+    <li><strong>Published</strong> artinya semua nilai tugas sudah dipublikasikan di web</li>
+</ul>
 
 </div>
 <div id="nilai tugas 2" class="section">
