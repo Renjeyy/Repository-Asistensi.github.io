@@ -157,9 +157,46 @@
 </table>
 
 <h2>Semester Pendek 2024/25</h2>
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
+  <thead style="background-color: #e6f0ff;">
+    <tr>
+      <th style="color: black; text-align: center;">No.</th>
+      <th style="color: black; text-align: center;">Kode MK</th>
+      <th style="color: black; text-align: center;">Kurikulum</th>
+      <th style="color: black; text-align: center;">Nama MK</th>
+      <th style="color: black; text-align: center;">Kelas</th>
+      <th style="color: black; text-align: center;">Nama Dosen</th>
+      <th style="color: black; text-align: center;">Status</th>
+      <th style="color: black; text-align: center;">Detail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>1.</td>
+      <td>SCST601001</td>
+      <td>04.01.03.01-2024</td>
+      <td>Pengantar Sains Data</td>
+      <td>PSD (Layanan A)</td>
+      <td>Devvi Sarwinda, M.Kom.</td>
+      <td>Empty</td>
+      <td><a href="">detail</a></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>SCST601001</td>
+      <td>04.01.03.01-2024</td>
+      <td>Pengantar Sains Data</td>
+      <td>PSD (Layanan B)</td>
+      <td>Mila Novita, S.Si., M.Si.</td>
+      <td>Empty</td>
+      <td><a href="">detail</a></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
-
 <div id="nilai tugas 2" class="section">
 <h2>TBD</h2>
 </div>
