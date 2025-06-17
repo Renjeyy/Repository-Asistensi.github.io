@@ -117,21 +117,47 @@
 <div id="nilai tugas" class="section">
 <h2>Semester Reguler ATA 2024/25</h2>
 
-<label for="kelasSelect">Pilih Kelas:</label>
-<select id="kelasSelect" onchange="redirectToClass()">
-  <option value="">-- Pilih Kelas --</option>
-  <option value="Saindat-Kelas-A.html">Sains Data (A) : Kelas Bu Bevina</option>
-  <option value="Saindat-Kelas-B.html">Sains Data (B) : Kelas Bu Devvi</option>
-</select>
-
-<script>
-  function redirectToClass() {
-    var selectedPage = document.getElementById("kelasSelect").value;
-    if (selectedPage) {
-      window.location.href = selectedPage;
-    }
-  }
-</script>
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
+  <thead style="background-color: #e6f0ff;">
+    <tr>
+      <th>No.</th>
+      <th>Kode MK</th>
+      <th>Kurikulum</th>
+      <th>Nama MK</th>
+      <th>Kelas</th>
+      <th>Nama Dosen</th>
+      <th>Status</th>
+      <th>Detail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="8" style="text-align: left; font-weight: bold; background-color: #f9f9f9;">
+        Tahun Ajaran <span style="color: green;">2022/2023</span> Term <span style="color: green;">1</span>
+      </td>
+    </tr>
+    <tr>
+      <td>1.</td>
+      <td>SCMA602017</td>
+      <td>03.01.03.01-2020</td>
+      <td>Sains Data</td>
+      <td>Sains Data (A)</td>
+      <td>Dra. Bevina Desjwiandra Handari, M.Si., Ph.D.</td>
+      <td>Published</td>
+      <td><a href="Saindat-Kelas-B.html">detail</a></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>SCMA602017</td>
+      <td>03.01.03.01-2020</td>
+      <td>Sains Data</td>
+      <td>Sains Data (B)</td>
+      <td>Devvi Sarwinda, M.Kom.</td>
+      <td>Published</td>
+      <td><a href="Saindat-Kelas-B.html">detail</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>Semester Reguler PTA 2025/26</h2>
 
