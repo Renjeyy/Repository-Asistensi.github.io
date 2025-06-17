@@ -120,14 +120,14 @@
 <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
   <thead style="background-color: #e6f0ff;">
     <tr>
-      <th style="color: black;">No.</th>
-      <th style="color: black;">Kode MK</th>
-      <th style="color: black;">Kurikulum</th>
-      <th style="color: black;">Nama MK</th>
-      <th style="color: black;">Kelas</th>
-      <th style="color: black;">Nama Dosen</th>
-      <th style="color: black;">Status</th>
-      <th style="color: black;">Detail</th>
+      <th style="color: black; text-align: center;">No.</th>
+      <th style="color: black; text-align: center;">Kode MK</th>
+      <th style="color: black; text-align: center;">Kurikulum</th>
+      <th style="color: black; text-align: center;">Nama MK</th>
+      <th style="color: black; text-align: center;">Kelas</th>
+      <th style="color: black; text-align: center;">Nama Dosen</th>
+      <th style="color: black; text-align: center;">Status</th>
+      <th style="color: black; text-align: center;">Detail</th>
     </tr>
   </thead>
   <tbody>
@@ -156,22 +156,7 @@
   </tbody>
 </table>
 
-<h2>Semester Reguler PTA 2025/26</h2>
-
-<label for="kelasSelect">Pilih Kelas:</label>
-<select id="kelasSelect" onchange="redirectToClass()">
-  <option value="">-- Pilih Kelas --</option>
-  <option value="">TBD</option>
-</select>
-
-<script>
-  function redirectToClass() {
-    var selectedPage = document.getElementById("kelasSelect").value;
-    if (selectedPage) {
-      window.location.href = selectedPage;
-    }
-  }
-</script>
+<h2>Semester Pendek 2024/25</h2>
 
 </div>
 
