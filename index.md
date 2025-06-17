@@ -115,26 +115,23 @@
 </div>
 
 <div id="nilai tugas" class="section">
-<h2>Semester Reguler ATA 2024/25</h2>
+<h2>Tahun Ajaran PTA 2024/25</h2>
 
 <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
   <thead style="background-color: #e6f0ff;">
     <tr>
-      <th>No.</th>
-      <th>Kode MK</th>
-      <th>Kurikulum</th>
-      <th>Nama MK</th>
-      <th>Kelas</th>
-      <th>Nama Dosen</th>
-      <th>Status</th>
-      <th>Detail</th>
+      <th style="color: black;">No.</th>
+      <th style="color: black;">Kode MK</th>
+      <th style="color: black;">Kurikulum</th>
+      <th style="color: black;">Nama MK</th>
+      <th style="color: black;">Kelas</th>
+      <th style="color: black;">Nama Dosen</th>
+      <th style="color: black;">Status</th>
+      <th style="color: black;">Detail</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="8" style="text-align: left; font-weight: bold; background-color: #f9f9f9;">
-        Tahun Ajaran <span style="color: green;">2022/2023</span> Term <span style="color: green;">1</span>
-      </td>
     </tr>
     <tr>
       <td>1.</td>
