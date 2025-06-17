@@ -165,7 +165,7 @@
       <th style="color: black; text-align: center;">No.</th>
       <th style="color: black; text-align: center;">Kode MK</th>
       <th style="color: black; text-align: center;">Kurikulum</th>
-      <th style="color: black; text-align: center;">Kelas</th>
+      <th style="color: black; text-align: center;">Nama Kelas</th>
       <th style="color: black; text-align: center;">Nama Dosen</th>
       <th style="color: black; text-align: center;">Status</th>
       <th style="color: black; text-align: center;">Detail</th>
