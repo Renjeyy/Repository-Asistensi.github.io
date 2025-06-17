@@ -152,11 +152,11 @@
     </tr>
   </tbody>
 </table>
-* Empty artinya nilai tersebut belum dikoreksi
-
-* Not publised artinya nilai tersebut sudah ada tetapi belum dipublikasikan di web
-
-* Published artinya nilai tersebut sudah dipublikasikan di web
+<ul>
+    <li><strong>Empty</strong> artinya nilai tersebut belum dikoreksi</li>
+    <li><strong>Not published</strong> artinya nilai tersebut sudah ada tetapi belum dipublikasikan di web</li>
+    <li><strong>Published</strong> artinya nilai tersebut sudah dipublikasikan di web</li>
+</ul>
 
 <h2>Semester Pendek 2024/25</h2>
 <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
