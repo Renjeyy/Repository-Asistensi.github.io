@@ -123,8 +123,7 @@
       <th style="color: black; text-align: center;">No.</th>
       <th style="color: black; text-align: center;">Kode MK</th>
       <th style="color: black; text-align: center;">Kurikulum</th>
-      <th style="color: black; text-align: center;">Nama MK</th>
-      <th style="color: black; text-align: center;">Kelas</th>
+      <th style="color: black; text-align: center;">Nama Kelas</th>
       <th style="color: black; text-align: center;">Nama Dosen</th>
       <th style="color: black; text-align: center;">Status</th>
       <th style="color: black; text-align: center;">Detail</th>
@@ -137,7 +136,6 @@
       <td>1.</td>
       <td>SCMA602017</td>
       <td>03.01.03.01-2020</td>
-      <td>Sains Data</td>
       <td>Sains Data (A)</td>
       <td>Dra. Bevina Desjwiandra Handari, M.Si., Ph.D.</td>
       <td>Published</td>
@@ -147,7 +145,6 @@
       <td>2.</td>
       <td>SCMA602017</td>
       <td>03.01.03.01-2020</td>
-      <td>Sains Data</td>
       <td>Sains Data (B)</td>
       <td>Devvi Sarwinda, M.Kom.</td>
       <td>Published</td>
@@ -156,7 +153,9 @@
   </tbody>
 </table>
 * Empty artinya nilai tersebut belum dikoreksi
+
 * Not publised artinya nilai tersebut sudah ada tetapi belum dipublikasikan di web
+
 * Published artinya nilai tersebut sudah dipublikasikan di web
 
 <h2>Semester Pendek 2024/25</h2>
@@ -166,7 +165,6 @@
       <th style="color: black; text-align: center;">No.</th>
       <th style="color: black; text-align: center;">Kode MK</th>
       <th style="color: black; text-align: center;">Kurikulum</th>
-      <th style="color: black; text-align: center;">Nama MK</th>
       <th style="color: black; text-align: center;">Kelas</th>
       <th style="color: black; text-align: center;">Nama Dosen</th>
       <th style="color: black; text-align: center;">Status</th>
@@ -180,7 +178,6 @@
       <td>1.</td>
       <td>SCST601001</td>
       <td>04.01.03.01-2024</td>
-      <td>Pengantar Sains Data</td>
       <td>PSD (Layanan A)</td>
       <td>Devvi Sarwinda, M.Kom.</td>
       <td>Empty</td>
@@ -190,7 +187,6 @@
       <td>2.</td>
       <td>SCST601001</td>
       <td>04.01.03.01-2024</td>
-      <td>Pengantar Sains Data</td>
       <td>PSD (Layanan B)</td>
       <td>Mila Novita, S.Si., M.Si.</td>
       <td>Empty</td>
