@@ -30,6 +30,15 @@
 .content-container {
   margin-top: 20px;
 }
+
+td ul {
+  list-style: none;
+  padding-left: 0;
+}
+td ul li::before {
+  content: "-";
+  padding-right: 2px; /* atau 0 jika ingin tanpa spasi */
+}
 </style>
 
 <div class="navbar">
@@ -139,8 +148,8 @@
       <td>Sains Data (A)</td>
       <td>Dra. Bevina Desjwiandra Handari, M.Si., Ph.D.</td>
       <td><ul style="list-style-type: none; padding-left: 0;">
-  - Renzie Aditya F.H.
-  - Pandu Adjie
+  <li>- Renzie Aditya F.H.</li>
+  <li>- Pandu Adjie</li>
 </ul></td>
     </tr>
     <tr>
@@ -152,7 +161,7 @@
       <td><ul style="list-style-type: none; padding-left: 0;">
   <li>- Renzie Aditya F.H.</li>
   <li>- Pandu Adjie</li>
-</ul></td>
+</ul>/td>
     </tr>
   </tbody>
 </table>
