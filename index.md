@@ -139,7 +139,7 @@
       <td>Sains Data (A)</td>
       <td>Dra. Bevina Desjwiandra Handari, M.Si., Ph.D.</td>
       <td><ul>
-    <li><strong>Renzie Aditya F.H.</strong></li>
+    <li><strong>Renzie Aditya</strong></li>
     <li><strong>Pandu Adjie</strong></li></ul></td>
     </tr>
     <tr>
@@ -150,7 +150,7 @@
       <td>Devvi Sarwinda, M.Kom.</td>
       <td><ul>
     <li><strong>Pandu Adjie</strong></li>
-    <li><strong>Renzie Aditya F.H.</strong></li></ul></td>
+    <li><strong>Renzie Aditya</strong></li></ul></td>
     </tr>
   </tbody>
 </table>
