@@ -138,9 +138,10 @@
       <td>03.01.03.01-2020</td>
       <td>Sains Data (A)</td>
       <td>Dra. Bevina Desjwiandra Handari, M.Si., Ph.D.</td>
-      <td><ul>
-    <li><strong>Renzie Aditya F.H.</strong></li>
-    <li><strong>Pandu Adjie</strong></li></ul></td>
+      <td><ul style="list-style-type: none; padding-left: 0;">
+  <li>- Renzie Aditya F.H.</li>
+  <li>- Pandu Adjie</li>
+</ul></td>
     </tr>
     <tr>
       <td>2.</td>
@@ -148,9 +149,10 @@
       <td>03.01.03.01-2020</td>
       <td>Sains Data (B)</td>
       <td>Devvi Sarwinda, M.Kom.</td>
-      <td><ul>
-    <li><strong>Pandu Adjie</strong></li>
-    <li><strong>Renzie Aditya F.H.</strong></li></ul></td>
+      <td><ul style="list-style-type: none; padding-left: 0;">
+  <li>- Renzie Aditya F.H.</li>
+  <li>- Pandu Adjie</li>
+</ul></td>
     </tr>
   </tbody>
 </table>
