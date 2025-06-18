@@ -177,9 +177,7 @@
       <td>04.01.03.01-2024</td>
       <td>PSD Layanan (A)</td>
       <td>Devvi Sarwinda, M.kom.</td>
-      <td><ul>
-    <li>Renzie Aditya F.H.</td>
-      <td>Renzie Aditya F.H.</td>
+      <td>Renzie Aditya</td>
     </tr>
     <tr>
       <td>2.</td>
@@ -187,9 +185,7 @@
       <td>04.01.03.01-2024</td>
       <td>PSD Layanan (B)</td>
       <td>Mila Novita, S.Si., M.Si.</td>
-      <td><ul>
-    <li>Renzie Aditya F.H.</td>
-      <td>Renzie Aditya F.H.</td>
+      <td>Renzie Aditya</td>
     </tr>
   </tbody>
 </table>
