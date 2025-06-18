@@ -204,9 +204,10 @@
 </ul>
 
 </div>
-<div id="nilai tugas 2" class="section">
+<div id="tim pengajar" class="section">
 <h2>TBD</h2>
 </div>
+
 
 
 <script>
