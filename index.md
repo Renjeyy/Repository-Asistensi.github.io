@@ -30,15 +30,6 @@
 .content-container {
   margin-top: 20px;
 }
-
-td ul {
-  list-style: none;
-  padding-left: 0;
-}
-td ul li::before {
-  content: "-";
-  padding-right: 2px; /* atau 0 jika ingin tanpa spasi */
-}
 </style>
 
 <div class="navbar">
