@@ -207,6 +207,7 @@
 
 <div id="tim pengajar" class="section">
 <h2>Tahun Ajaran PTA 2024/25</h2>
+  
 <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
   <thead style="background-color: #e6f0ff;">
     <tr>
@@ -242,3 +243,5 @@
     </tr>
   </tbody>
 </table>
+
+</div>
