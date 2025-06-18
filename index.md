@@ -34,8 +34,8 @@
 
 <div class="navbar">
   <a onclick="showSection('soal')">Soal Responsi</a>
+    <a onclick="showSection('tim pengajar')">Tim Pengajar Responsi</a>
   <a onclick="showSection('nilai tugas')">Nilai Tugas</a>
-  <a onclick="showSection('tim pengajar')">Tim Pengajar Responsi</a>
 </div>
 
 <!-- Soal Responsi Section -->
@@ -149,11 +149,49 @@
       <td>Sains Data (B)</td>
       <td>Devvi Sarwinda, M.Kom.</td>
       <td><ul>
-    <li><strong>Pandu Adjie Sukarno</strong></li>
-    <li><strong>Renzie Aditya F,H,</strong></li></ul></td>
+    <li><strong>Pandu Adjie</strong></li>
+    <li><strong>Renzie Aditya F.H.</strong></li></ul></td>
     </tr>
   </tbody>
 </table>
+
+<h2>Semester Pendek 2024/25</h2>
+
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
+  <thead style="background-color: #e6f0ff;">
+    <tr>
+      <th style="color: black; text-align: center;">No.</th>
+      <th style="color: black; text-align: center;">Kode MK</th>
+      <th style="color: black; text-align: center;">Kurikulum</th>
+      <th style="color: black; text-align: center;">Nama Kelas</th>
+      <th style="color: black; text-align: center;">Nama Dosen</th>
+      <th style="color: black; text-align: center;">Asisten</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>1.</td>
+      <td>SCST601001</td>
+      <td>04.01.03.01-2024</td>
+      <td>PSD Layanan (A)</td>
+      <td>Devvi Sarwinda, M.kom.</td>
+      <td><ul>
+    <li>Renzie Aditya F.H.</td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>SCST601001</td>
+      <td>04.01.03.01-2024</td>
+      <td>PSD Layanan (B)</td>
+      <td>Mila Novita, S.Si., M.Si.</td>
+      <td><ul>
+    <li>Renzie Aditya F.H.</td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
 
 <div id="nilai tugas" class="section">
