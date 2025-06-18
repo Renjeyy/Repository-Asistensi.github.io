@@ -100,7 +100,7 @@
 
   <h3>Geometri Analitik</h3>
   <ul>
-    <li>Semester Reguler aTA 2024/25</li>
+    <li>Semester Reguler ATA 2024/25</li>
     <ul>
         <li><a href="https://drive.google.com/drive/folders/14bJPrNo2yQQRm7Yn3bN3aCPLxUuuue8t?usp=drive_link">PPT Materi</a></li>
         <li><a href="https://drive.google.com/drive/folders/1kHAnwmo16MHyPvTOe5h4hZ5PGCsVAq3M?usp=drive_link">Garis dan Bidang (Abdul Wahhab)</a></li>
