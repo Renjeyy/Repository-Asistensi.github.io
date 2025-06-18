@@ -61,7 +61,7 @@
         <li><a href="https://drive.google.com/drive/folders/1poWZyx6Namax3Dc1eBwfqs3PqaJf4NTi?usp=drive_link">Paruh 2 (Pasca UTS)</a></li>
     </ul>
   </ul>
-  
+
   <h3>Persamaan Diferensial Biasa</h3>
   <ul>
     <li>Semester Reguler PTA 2024/25</li>
@@ -204,5 +204,16 @@
 </ul>
 
 </div>
+<div id="nilai tugas 2" class="section">
+<h2>TBD</h2>
+</div>
 
-<div id="tim pengajar" class="section">
+
+<script>
+function showSection(sectionId) {
+  document.querySelectorAll('.section').forEach(sec => {
+    sec.classList.remove('active');
+  });
+  document.getElementById(sectionId).classList.add('active');
+}
+</script>
