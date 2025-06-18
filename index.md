@@ -140,7 +140,7 @@
       <td>Dra. Bevina Desjwiandra Handari, M.Si., Ph.D.</td>
       <td><ul>
     <li><strong>Renzie Aditya F.H.</strong></li>
-    <li><strong>Pandu Adjie Sukarno</strong></li></ul></td>
+    <li><strong>Pandu Adjie</strong></li></ul></td>
     </tr>
     <tr>
       <td>2.</td>
