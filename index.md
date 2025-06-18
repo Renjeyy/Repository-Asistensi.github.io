@@ -35,6 +35,7 @@
 <div class="navbar">
   <a onclick="showSection('soal')">Soal Responsi</a>
   <a onclick="showSection('nilai tugas')">Nilai Tugas</a>
+  <a onclick="showSection('tim pengajar')">Tim Pengajar Responsi</a>
 </div>
 
 <!-- Soal Responsi Section -->
