@@ -242,4 +242,3 @@
     </tr>
   </tbody>
 </table>
-</div>
