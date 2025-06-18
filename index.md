@@ -139,8 +139,8 @@
       <td>Sains Data (A)</td>
       <td>Dra. Bevina Desjwiandra Handari, M.Si., Ph.D.</td>
       <td><ul style="list-style-type: none; padding-left: 0;">
-  <li>- Renzie Aditya F.H.</li>
-  <li>- Pandu Adjie</li>
+  - Renzie Aditya F.H.
+  - Pandu Adjie
 </ul></td>
     </tr>
     <tr>
