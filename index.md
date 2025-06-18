@@ -115,6 +115,47 @@
   </ul>
 </div>
 
+<div id="tim pengajar" class="section">
+<h2>Tahun Ajaran PTA 2024/25</h2>
+
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
+  <thead style="background-color: #e6f0ff;">
+    <tr>
+      <th style="color: black; text-align: center;">No.</th>
+      <th style="color: black; text-align: center;">Kode MK</th>
+      <th style="color: black; text-align: center;">Kurikulum</th>
+      <th style="color: black; text-align: center;">Nama Kelas</th>
+      <th style="color: black; text-align: center;">Nama Dosen</th>
+      <th style="color: black; text-align: center;">Asisten</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>1.</td>
+      <td>SCMA602017</td>
+      <td>03.01.03.01-2020</td>
+      <td>Sains Data (A)</td>
+      <td>Dra. Bevina Desjwiandra Handari, M.Si., Ph.D.</td>
+      <td><ul>
+    <li><strong>Renzie Aditya F.H.</strong></li>
+    <li><strong>Pandu Adjie Sukarno</strong></li></ul></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>SCMA602017</td>
+      <td>03.01.03.01-2020</td>
+      <td>Sains Data (B)</td>
+      <td>Devvi Sarwinda, M.Kom.</td>
+      <td><ul>
+    <li><strong>Pandu Adjie Sukarno</strong></li>
+    <li><strong>Renzie Aditya F,H,</strong></li></ul></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 <div id="nilai tugas" class="section">
 <h2>Tahun Ajaran PTA 2024/25</h2>
 
@@ -203,46 +244,6 @@
     <li><strong>Published</strong> artinya semua nilai tugas sudah dipublikasikan di web</li>
 </ul>
 
-</div>
-<div id="tim pengajar" class="section">
-<h2>Tahun Ajaran PTA 2024/25</h2>
-
-<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
-  <thead style="background-color: #e6f0ff;">
-    <tr>
-      <th style="color: black; text-align: center;">No.</th>
-      <th style="color: black; text-align: center;">Kode MK</th>
-      <th style="color: black; text-align: center;">Kurikulum</th>
-      <th style="color: black; text-align: center;">Nama Kelas</th>
-      <th style="color: black; text-align: center;">Nama Dosen</th>
-      <th style="color: black; text-align: center;">Asisten</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-    </tr>
-    <tr>
-      <td>1.</td>
-      <td>SCMA602017</td>
-      <td>03.01.03.01-2020</td>
-      <td>Sains Data (A)</td>
-      <td>Dra. Bevina Desjwiandra Handari, M.Si., Ph.D.</td>
-      <td><ul>
-    <li><strong>Renzie Aditya</strong></li>
-    <li><strong>Pandu Adjie</strong></li></ul></td>
-    </tr>
-    <tr>
-      <td>2.</td>
-      <td>SCMA602017</td>
-      <td>03.01.03.01-2020</td>
-      <td>Sains Data (B)</td>
-      <td>Devvi Sarwinda, M.Kom.</td>
-      <td><ul>
-    <li><strong>Pandu Adjie</strong></li>
-    <li><strong>Renzie Aditya</strong></li></ul></td>
-    </tr>
-  </tbody>
-</table>
 </div>
 
 
