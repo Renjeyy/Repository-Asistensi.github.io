@@ -259,7 +259,7 @@
       <td>04.01.03.01-2024</td>
       <td>PSD (Layanan A)</td>
       <td>Devvi Sarwinda, M.Kom.</td>
-      <td>Empty</td>
+      <td>Published</td>
       <td><a href="">detail</a></td>
     </tr>
     <tr>
@@ -268,8 +268,58 @@
       <td>04.01.03.01-2024</td>
       <td>PSD (Layanan B)</td>
       <td>Mila Novita, S.Si., M.Si.</td>
-      <td>Empty</td>
+      <td>Published</td>
       <td><a href="PSD-SP-B.html">detail</a></td>
+    </tr>
+  </tbody>
+</table>
+<ul>
+    <li><strong>Empty</strong> artinya nilai tersebut belum dikoreksi</li>
+    <li><strong>Not published</strong> artinya nilai tersebut sudah ada tetapi belum dipublikasikan di web</li>
+    <li><strong>Published (Tugas x)</strong> artinya nilai tugas x sudah dipublikasikan di web</li>
+    <li><strong>Published</strong> artinya semua nilai tugas sudah dipublikasikan di web</li>
+</ul>
+
+<h2>Semester Reguler 2025/26</h2>
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
+  <thead style="background-color: #e6f0ff;">
+    <tr>
+      <th style="color: black; text-align: center;">No.</th>
+      <th style="color: black; text-align: center;">Kode MK</th>
+      <th style="color: black; text-align: center;">Kurikulum</th>
+      <th style="color: black; text-align: center;">Nama Kelas</th>
+      <th style="color: black; text-align: center;">Nama Dosen</th>
+      <th style="color: black; text-align: center;">Status</th>
+      <th style="color: black; text-align: center;">Detail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>SCMA602013</td>
+      <td>04.01.03.01-2024</td>
+      <td>PDB (B)</td>
+      <td>Rahmi Rusin, S.Si., M.Sc., Ph.D.</td>
+      <td>Empty</td>
+      <td><a href="">detail</a></td>
+    </tr>
+    <tr>
+      <td>1.</td>
+      <td>SCST601001</td>
+      <td>04.01.03.01-2024</td>
+      <td>PSD MIPA (A)</td>
+      <td>Fida Fathiyah Addini, M.Si.</td>
+      <td>Empty</td>
+      <td><a href="">detail</a></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>SCST601001</td>
+      <td>04.01.03.01-2024</td>
+      <td>PSD (Layanan B)</td>
+      <td>Sindy Devila, M.Si.</td>
+      <td>Empty</td>
+      <td><a href="">detail</a></td>
     </tr>
   </tbody>
 </table>
