@@ -316,7 +316,7 @@
       <td>2.</td>
       <td>SCST601001</td>
       <td>04.01.03.01-2024</td>
-      <td>PSD (Layanan B)</td>
+      <td>PSD MIPA (J)</td>
       <td>Sindy Devila, M.Si.</td>
       <td>Empty</td>
       <td><a href="">detail</a></td>
