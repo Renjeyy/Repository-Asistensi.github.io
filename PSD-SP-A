@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Nilai Mahasiswa</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 10px 12px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #3498db;
+            color: white;
+            position: sticky;
+            top: 0;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #e9f7fe;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+            color: #7f8c8d;
+        }
+        @media (max-width: 768px) {
+            table {
+                display: block;
+                overflow-x: auto;
+            }
+            th, td {
+                padding: 8px 10px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Data Nilai Mahasiswa</h1>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>No</th>
+                    <th>NPM</th>
+                    <th>Name</th>
+                    <th>Angkatan</th>
+                    <th>Program Studi</th>
+                    <th>Tugas 1</th>
+                    <th>Tugas 2</th>
+                    <th>Tugas 3</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>2206025464</td>
+                    <td>Razaan Hikmal Fasya</td>
+                    <td>2022</td>
+                    <td>Ilmu Aktuaria</td>
+                    <td>97</td>
+                    <td>95</td>
+                    <td>95</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>2206028402</td>
+                    <td>Aqmar Qolbi</td>
+                    <td>2022</td>
+                    <td>Geologi</td>
+                    <td>93</td>
+                    <td>95</td>
+                    <td>94</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>2206028466</td>
+                    <td>Putri Suci Haliza</td>
+                    <td>2022</td>
+                    <td>Fisika</td>
+                    <td>94</td>
+                    <td>99</td>
+                    <td>97</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>2206053101</td>
+                    <td>Fauzia Nuraini Aulia Sandi</td>
+                    <td>2022</td>
+                    <td>Fisika</td>
+                    <td>95</td>
+                    <td>95</td>
+                    <td>96</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>2206054470</td>
+                    <td>Freindra Athallah Soedira</td>
+                    <td>2022</td>
+                    <td>Geologi</td>
+                    <td>94</td>
+                    <td>95</td>
+                    <td>97</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>2206830403</td>
+                    <td>Ayman Fadhil Ramazan Peley</td>
+                    <td>2022</td>
+                    <td>Geologi</td>
+                    <td>92</td>
+                    <td>93</td>
+                    <td>91</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>2306156971</td>
+                    <td>Reazita Ratu Andhani</td>
+                    <td>2023</td>
+                    <td>Biologi</td>
+                    <td>97</td>
+                    <td>95</td>
+                    <td>95</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>2306157160</td>
+                    <td>Dian Anggraini</td>
+                    <td>2023</td>
+                    <td>Biologi</td>
+                    <td>97</td>
+                    <td>99</td>
+                    <td>94.5</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>2306157173</td>
+                    <td>Nugraheni Endah Pratiwi</td>
+                    <td>2023</td>
+                    <td>Biologi</td>
+                    <td>95</td>
+                    <td>95</td>
+                    <td>96</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>2306204705</td>
+                    <td>Rr. Larasati Zhahira Wibowo</td>
+                    <td>2023</td>
+                    <td>Biologi</td>
+                    <td>93</td>
+                    <td>94</td>
+                    <td>93</td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>2306238624</td>
+                    <td>Hanafiah Nuranjani Putri</td>
+                    <td>2023</td>
+                    <td>Biologi</td>
+                    <td>95</td>
+                    <td>98</td>
+                    <td>93</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>2306238681</td>
+                    <td>Nur Azizah</td>
+                    <td>2023</td>
+                    <td>Biologi</td>
+                    <td>95</td>
+                    <td>98</td>
+                    <td>93</td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>2306250005</td>
+                    <td>Najwan Kayana Syahputra</td>
+                    <td>2023</td>
+                    <td>Geofisika</td>
+                    <td>93</td>
+                    <td>95</td>
+                    <td>94</td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>2306250056</td>
+                    <td>Daffa Kusuma Oktavian</td>
+                    <td>2023</td>
+                    <td>Geofisika</td>
+                    <td>100</td>
+                    <td>93</td>
+                    <td>95</td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>2306250094</td>
+                    <td>Rafi Tara Vittorio</td>
+                    <td>2023</td>
+                    <td>Geofisika</td>
+                    <td>91</td>
+                    <td>96</td>
+                    <td>92</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>2306261690</td>
+                    <td>Muhammad Haffah Muhtady Billah</td>
+                    <td>2023</td>
+                    <td>Fisika</td>
+                    <td>100</td>
+                    <td>93</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>17</td>
+                    <td>2306263203</td>
+                    <td>Faiz Ardy Kresno</td>
+                    <td>2023</td>
+                    <td>Geofisika</td>
+                    <td>94</td>
+                    <td>95</td>
+                    <td>97</td>
+                </tr>
+                <tr>
+                    <td>18</td>
+                    <td>2406345614</td>
+                    <td>Winner Rashad Handayaningrat</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td>93</td>
+                    <td>94</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>19</td>
+                    <td>2406350154</td>
+                    <td>Laudziya Farha</td>
+                    <td>2024</td>
+                    <td>Fisika</td>
+                    <td>95</td>
+                    <td>95</td>
+                    <td>96</td>
+                </tr>
+                <tr>
+                    <td>20</td>
+                    <td>2406356252</td>
+                    <td>Nur'Aini Sri Apriliani</td>
+                    <td>2024</td>
+                    <td></td>
+                    <td>93</td>
+                    <td>94</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>21</td>
+                    <td>2406419120</td>
+                    <td>Lumban Gaol, Michael Kristian</td>
+                    <td>2024</td>
+                    <td>Geologi</td>
+                    <td>95</td>
+                    <td>98</td>
+                    <td>93</td>
+                </tr>
+                <tr>
+                    <td>22</td>
+                    <td>2406430533</td>
+                    <td>M. Indanno Sutanto</td>
+                    <td>2024</td>
+                    <td>Geofisika</td>
+                    <td>94</td>
+                    <td>95</td>
+                    <td>97</td>
+                </tr>
+                <tr>
+                    <td>23</td>
+                    <td>2406432173</td>
+                    <td>Sandi Nur Alifia</td>
+                    <td>2024</td>
+                    <td>Geologi</td>
+                    <td>94</td>
+                    <td>99</td>
+                    <td>97</td>
+                </tr>
+                <tr>
+                    <td>24</td>
+                    <td>2406432620</td>
+                    <td>M. Subhan Waliyuddin</td>
+                    <td>2024</td>
+                    <td>Geografi</td>
+                    <td>97</td>
+                    <td>95</td>
+                    <td>95</td>
+                </tr>
+                <tr>
+                    <td>25</td>
+                    <td>2406433094</td>
+                    <td>Amanda Rizki Ramadhan</td>
+                    <td>2024</td>
+                    <td>Geografi</td>
+                    <td>94</td>
+                    <td>99</td>
+                    <td>97</td>
+                </tr>
+                <tr>
+                    <td>26</td>
+                    <td>2406434456</td>
+                    <td>Sayid Zaidan Kamil</td>
+                    <td>2024</td>
+                    <td>Geofisika</td>
+                    <td>93</td>
+                    <td>95</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>27</td>
+                    <td>2406436455</td>
+                    <td>Muhammad Malik Maulana</td>
+                    <td>2024</td>
+                    <td>Fisika</td>
+                    <td>92</td>
+                    <td>93</td>
+                    <td>91</td>
+                </tr>
+                <tr>
+                    <td>28</td>
+                    <td>2406436796</td>
+                    <td>Shafeeq Atilla Hakim</td>
+                    <td>2024</td>
+                    <td>Geologi</td>
+                    <td>91</td>
+                    <td>96</td>
+                    <td>92</td>
+                </tr>
+                <tr>
+                    <td>29</td>
+                    <td>2406439330</td>
+                    <td>Prawira Ahmad Harjo Wijoyo</td>
+                    <td>2024</td>
+                    <td>Geologi</td>
+                    <td>97</td>
+                    <td>99</td>
+                    <td>94.5</td>
+                </tr>
+                <tr>
+                    <td>30</td>
+                    <td>2406482940</td>
+                    <td>M Muhammad Rafie Nasir Lubis</td>
+                    <td>2024</td>
+                    <td>Geografi</td>
+                    <td>92</td>
+                    <td>93</td>
+                    <td>91</td>
+                </tr>
+                <tr>
+                    <td>31</td>
+                    <td>2406483312</td>
+                    <td>Rivansyah Syaputra</td>
+                    <td>2024</td>
+                    <td>Fisika</td>
+                    <td>100</td>
+                    <td>93</td>
+                    <td>95</td>
+                </tr>
+                <tr>
+                    <td>32</td>
+                    <td>2406483382</td>
+                    <td>Handaru Nuswantoro</td>
+                    <td>2024</td>
+                    <td>Fisika</td>
+                    <td>97</td>
+                    <td>99</td>
+                    <td>94.5</td>
+                </tr>
+                <tr>
+                    <td>33</td>
+                    <td>2406484712</td>
+                    <td>Muhammad Izaz Najwan</td>
+                    <td>2024</td>
+                    <td>Geofisika</td>
+                    <td>91</td>
+                    <td>96</td>
+                    <td>92</td>
+                </tr>
+                <tr>
+                    <td>34</td>
+                    <td>2406484744</td>
+                    <td>Pradipta Arya Wibowo</td>
+                    <td>2024</td>
+                    <td>Geofisika</td>
+                    <td>91</td>
+                    <td>96</td>
+                    <td>92</td>
+                </tr>
+            </tbody>
+        </table>
+    
+    </div>
+</body>
+</html>
