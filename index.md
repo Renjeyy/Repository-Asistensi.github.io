@@ -260,7 +260,7 @@
       <td>PSD (Layanan A)</td>
       <td>Devvi Sarwinda, M.Kom.</td>
       <td>Published</td>
-      <td><a href="">detail</a></td>
+      <td><a href="PSD-SP-A.html">detail</a></td>
     </tr>
     <tr>
       <td>2.</td>
