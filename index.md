@@ -269,7 +269,7 @@
       <td>PSD (Layanan B)</td>
       <td>Mila Novita, S.Si., M.Si.</td>
       <td>Empty</td>
-      <td><a href="">detail</a></td>
+      <td><a href="PSD-SP-B.html">detail</a></td>
     </tr>
   </tbody>
 </table>
