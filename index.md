@@ -298,6 +298,15 @@
       <td>1.</td>
       <td>SCMA602013</td>
       <td>04.01.03.01-2024</td>
+      <td>PDB (A)</td>
+      <td>Dr. Dipo Aldila, S.Si., M.Si.</td>
+      <td>Empty</td>
+      <td><a href="">detail</a></td>
+    </tr>
+    <tr>
+      <td>1.</td>
+      <td>SCMA602013</td>
+      <td>04.01.03.01-2024</td>
       <td>PDB (B)</td>
       <td>Rahmi Rusin, S.Si., M.Sc., Ph.D.</td>
       <td>Empty</td>
