@@ -304,7 +304,7 @@
       <td><a href="">detail</a></td>
     </tr>
     <tr>
-      <td>1.</td>
+      <td>2.</td>
       <td>SCMA602013</td>
       <td>04.01.03.01-2024</td>
       <td>PDB (B)</td>
@@ -313,7 +313,7 @@
       <td><a href="">detail</a></td>
     </tr>
     <tr>
-      <td>1.</td>
+      <td>3.</td>
       <td>SCST601001</td>
       <td>04.01.03.01-2024</td>
       <td>PSD MIPA (A)</td>
@@ -322,7 +322,7 @@
       <td><a href="">detail</a></td>
     </tr>
     <tr>
-      <td>2.</td>
+      <td>4.</td>
       <td>SCST601001</td>
       <td>04.01.03.01-2024</td>
       <td>PSD MIPA (J)</td>
