@@ -301,7 +301,7 @@
       <td>PDB (A)</td>
       <td>Dr. Dipo Aldila, S.Si., M.Si.</td>
       <td>Empty</td>
-      <td><a href="">detail</a></td>
+      <td><a href="PDB-Kelas-A.html">detail</a></td>
     </tr>
     <tr>
       <td>2.</td>
@@ -310,7 +310,7 @@
       <td>PDB (B)</td>
       <td>Rahmi Rusin, S.Si., M.Sc., Ph.D.</td>
       <td>Empty</td>
-      <td><a href="">detail</a></td>
+      <td><a href="PDB-Kelas-B.html">detail</a></td>
     </tr>
     <tr>
       <td>3.</td>
