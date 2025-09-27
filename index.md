@@ -298,7 +298,7 @@
       <td>04.01.03.01-2024</td>
       <td>PDB (A)</td>
       <td>Dr. Dipo Aldila, S.Si., M.Si.</td>
-      <td>Empty</td>
+      <td>Not Published</td>
       <td><a href="PDB-Kelas-A.html">detail</a></td>
     </tr>
     <tr>
@@ -307,11 +307,20 @@
       <td>04.01.03.01-2024</td>
       <td>PDB (B)</td>
       <td>Rahmi Rusin, S.Si., M.Sc., Ph.D.</td>
-      <td>Empty</td>
+      <td>Not Published</td>
       <td><a href="PDB-Kelas-B.html">detail</a></td>
     </tr>
     <tr>
       <td>3.</td>
+      <td>SCST601001</td>
+      <td>04.01.03.01-2024</td>
+      <td>PSD Matematika (A)</td>
+      <td>Devvi Sarwinda, M.Kom.</td>
+      <td>Empty</td>
+      <td><a href="">detail</a></td>
+    </tr>
+    <tr>
+      <td>4.</td>
       <td>SCST601001</td>
       <td>04.01.03.01-2024</td>
       <td>PSD MIPA (A)</td>
@@ -320,7 +329,16 @@
       <td><a href="">detail</a></td>
     </tr>
     <tr>
-      <td>4.</td>
+      <td>5.</td>
+      <td>SCST601001</td>
+      <td>04.01.03.01-2024</td>
+      <td>PSD MIPA (B)</td>
+      <td>Kurnia Susvitasari, S.Si., M.Sc., Ph.D.</td>
+      <td>Empty</td>
+      <td><a href="">detail</a></td>
+    </tr>
+    <tr>
+      <td>6.</td>
       <td>SCST601001</td>
       <td>04.01.03.01-2024</td>
       <td>PSD MIPA (J)</td>
