@@ -1,33 +1,432 @@
-<h3>Persamaan Differensial Biasa (B) : Kelas Bu Rahmi</h3>
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Mahasiswa</title>
+    <title>Data Mahasiswa - Tugas 1</title>
     <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f2f5;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #ecf0f1;
+        }
         table {
-            border-collapse: collapse;
             width: 100%;
-            font-family: Arial, sans-serif;
+            border-collapse: collapse;
+            margin-top: 10px;
         }
         th, td {
-            border: 1px solid #000; /* Mengganti warna border menjadi hitam agar tetap terlihat jelas */
+            padding: 14px 12px;
             text-align: left;
-            padding: 8px;
+            border-bottom: 1px solid #e1e1e1;
+        }
+        th {
+            background-color: #3498db;
+            color: white;
+            font-weight: 600;
+            position: sticky;
+            top: 0;
+        }
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        tr:hover {
+            background-color: #e3f2fd;
+            transition: background-color 0.2s;
+        }
+        .status-not-published {
+            color: #e74c3c;
+            font-weight: 500;
+        }
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            table {
+                font-size: 14px;
+            }
+            th, td {
+                padding: 10px 8px;
+            }
+        }
+        @media (max-width: 600px) {
+            table {
+                display: block;
+                overflow-x: auto;
+                white-space: nowrap;
+            }
         }
     </style>
 </head>
 <body>
-
-<table>
-    <thead>
-        <tr>
-            <th>No</th>
-            <th>NPM</th>
-            <th>Nama Mahasiswa</th>
-            <th>Angkatan</th>
-            <th>Program Studi</th>
-            <th>Tugas 1</th>
-        </tr>
-    </thead>
-
+    <div class="container">
+        <h1>Data Mahasiswa - Tugas 1</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Nama</th>
+                    <th>Angkatan</th>
+                    <th>Program Studi</th>
+                    <th>Tugas 1</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Siera Barokatillah</td>
+                    <td>2020</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Haifa Marwa Saniyyah</td>
+                    <td>2022</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Muhamad Ichsan Nugroho</td>
+                    <td>2022</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Cecilia Susanto</td>
+                    <td>2022</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Matthew Abigail Pasariou</td>
+                    <td>2022</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Rajwa Abisena Kindy</td>
+                    <td>2022</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Khadjiah Nurul Izzah</td>
+                    <td>2023</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>Fiska Firdaus</td>
+                    <td>2023</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>Ryan Faiz</td>
+                    <td>2023</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>Rizka Zulaika</td>
+                    <td>2023</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>Athallah Akmal</td>
+                    <td>2023</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>Millah Nafisah</td>
+                    <td>2023</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>Alissa Shafwah Khairunnisa</td>
+                    <td>2023</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>Raditya Fauzan</td>
+                    <td>2023</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>Karin Alya Falisha</td>
+                    <td>2023</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>16</td>
+                    <td>Mohammad Adrian Rahman Ekoputra</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>17</td>
+                    <td>Faizah Nur Syifa</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>18</td>
+                    <td>Kay Arya Satria Ananda Supriyanto</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>19</td>
+                    <td>Rizkimi Aditya Putra</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>20</td>
+                    <td>Tangquh Musyaffa Azzurra</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>21</td>
+                    <td>Fahma Dani</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>22</td>
+                    <td>Kent Farrell Candra</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>23</td>
+                    <td>Eksha Zora Athallah</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>24</td>
+                    <td>Noval Mirandy Fairuz</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>25</td>
+                    <td>Kenneth Gerald Filberto</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>26</td>
+                    <td>Satria Putra Sukaton</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>27</td>
+                    <td>Keagan Daevon Audrich</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>28</td>
+                    <td>Putra Muhammad Rafy</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>29</td>
+                    <td>Muhammad Rifki Darmawan</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>30</td>
+                    <td>Christian Octavianus Hadianto</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>31</td>
+                    <td>Muhammad Zulfikar Ali Rafsanjani</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>32</td>
+                    <td>Gema Adi Ramadhana</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>33</td>
+                    <td>Hafizhul Urfan</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>34</td>
+                    <td>Rafi Darmawan Yuana Putra</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>35</td>
+                    <td>Nadya Azzahra</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>36</td>
+                    <td>Sofyan Shodigin</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>37</td>
+                    <td>Nasywa Raudhah Audilia Putri</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>38</td>
+                    <td>Rodear Gemilang Saragih</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>39</td>
+                    <td>Ambar Sekar Prawita</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>40</td>
+                    <td>Tamilnah Kamila Azra</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>41</td>
+                    <td>Muhammad Fawwaz Abadhas</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>42</td>
+                    <td>Ratu Ayunda Chelsea Putranto</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>43</td>
+                    <td>Richardo Sidik</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>44</td>
+                    <td>Amabella Tjahjadi</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>45</td>
+                    <td>Yosfatara Moratua Purba</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>46</td>
+                    <td>Dinda Tiara Nur Amalia</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>47</td>
+                    <td>Averina Lizandra Purba</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+                <tr>
+                    <td>48</td>
+                    <td>Fatia Nur Farhanah</td>
+                    <td>2024</td>
+                    <td>Matematika</td>
+                    <td class="status-not-published">Not Published</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
