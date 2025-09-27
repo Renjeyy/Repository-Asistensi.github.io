@@ -30,6 +30,11 @@
 .content-container {
   margin-top: 20px;
 }
+
+#forkme_banner,
+a[href*="github.com"][class*="btn"] {
+  display: none !important;
+}
 </style>
 
 <div class="navbar">
