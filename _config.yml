@@ -1,5 +1,5 @@
 title: Repository Responsi
 logo: docs/assets/Foto Renji.png
 description: Kumpulan Soal Responsi & Nilai Tugas
-#show_downloads: true
+show_downloads: false
 theme: jekyll-theme-hacker
